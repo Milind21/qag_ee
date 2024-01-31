@@ -1,0 +1,2474 @@
+{
+    "scenario_en_kairos_68": {
+        "events": [
+            {
+                "scenario_en_kairos_68-E1": [
+                    {
+                        "answer": "Attack",
+                        "question": "What was the subject of the attack?"
+                    },
+                    {
+                        "answer": "I",
+                        "question": "Who carried out the bombing?"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_drone_strikes_0_news_1": {
+        "events": [
+            {
+                "wiki_drone_strikes_0_news_1-E1": [
+                    {
+                        "answer": "President Barack Obama",
+                        "question": "Who oversaw more strikes in his first year than his predecessor?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who carried out fewer strikes than Obama's first year?"
+                    },
+                    {
+                        "answer": "drones",
+                        "question": "What was largely used to carry out the strikes?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Which countries were primarily targeted by the strikes?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E2": [
+                    {
+                        "answer": "\"There were ten times more air strikes in the covert war on terror during President Barack Obama\u2019s presidency than under his predecessor, George W. Bush.\"",
+                        "question": "What was the covert war on terror characterized by?"
+                    },
+                    {
+                        "answer": "\"Obama embraced the US drone programme, overseeing more strikes in his first year than Bush carried out during his entire presidency.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"A total of 563 strikes, largely by drones, targeted Pakistan, Somalia and Yemen during Obama\u2019s two terms.\"",
+                        "question": "Which countries were targeted by the strikes?"
+                    },
+                    {
+                        "answer": "\"Between 384 and 807 civilians were killed in those countries, according to reports logged by the Bureau.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"The Obama administration has insisted that drone strikes are so 'exceptionally surgical and precise' that they pluck off terror suspects while not putting 'innocent men, women and children in danger'.\"",
+                        "question": "What was the Obama administration's claim about the precision of drone strikes?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E3": [
+                    {
+                        "answer": "Barack Obama",
+                        "question": "Who oversaw more strikes?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who was the predecessor of the president?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Which countries were targeted by the strikes?"
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes were conducted during Obama's presidency?"
+                    },
+                    {
+                        "answer": "57",
+                        "question": "How many strikes were conducted under Bush's presidency?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E4": [
+                    {
+                        "answer": "Obama",
+                        "question": "Who oversaw more strikes than his predecessor?"
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes targeted Pakistan, Somalia, and Yemen during Obama's two terms?"
+                    },
+                    {
+                        "answer": "drones",
+                        "question": "What were largely used for the strikes during Obama's presidency?"
+                    },
+                    {
+                        "answer": "57",
+                        "question": "How many strikes occurred under Bush's presidency?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E5": [
+                    {
+                        "answer": "Civilians",
+                        "question": "Who were killed?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Where were the civilians killed?"
+                    },
+                    {
+                        "answer": "Between 64 and 116",
+                        "question": "How many civilians were killed?"
+                    },
+                    {
+                        "answer": "The Bureau recorded 65 to 105 civilian deaths during this period.",
+                        "question": "How many civilian deaths were recorded by the Bureau?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E6": [
+                    {
+                        "answer": "covert war on terror",
+                        "question": "What context were the strikes conducted in?"
+                    },
+                    {
+                        "answer": "President Barack Obama\u2019s presidency",
+                        "question": "Whose presidency saw more strikes?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who was the predecessor to Obama?"
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes targeted Pakistan, Somalia, and Yemen during Obama\u2019s two terms?"
+                    },
+                    {
+                        "answer": "Bureau",
+                        "question": "Which organization logged the reports on civilian casualties?"
+                    },
+                    {
+                        "answer": "targeted killing program",
+                        "question": "What program does the use of drones align with?"
+                    },
+                    {
+                        "answer": "surgical and precise",
+                        "question": "How does the Obama administration describe the drone strikes?"
+                    },
+                    {
+                        "answer": "human rights groups",
+                        "question": "Who contests the claim that the strikes are surgical and precise?"
+                    },
+                    {
+                        "answer": "White House",
+                        "question": "Who released figures on the number of people killed in drone strikes?"
+                    },
+                    {
+                        "answer": "active battlefields",
+                        "question": "Where do the figures of civilian casualties not include deaths?"
+                    },
+                    {
+                        "answer": "Afghanistan",
+                        "question": "Where have US air attacks increased since Obama withdrew troops?"
+                    },
+                    {
+                        "answer": "1,337",
+                        "question": "How many weapons were dropped in Afghanistan in 2016?"
+                    },
+                    {
+                        "answer": "Pakistan",
+                        "question": "Where were the most drone operations conducted during Obama\u2019s first term?"
+                    },
+                    {
+                        "answer": "54",
+                        "question": "How many strikes took place in Pakistan in 2009?"
+                    },
+                    {
+                        "answer": "Pakistan",
+                        "question": "Where did all the strikes in 2009 take place?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E7": [
+                    {
+                        "answer": "Civilians",
+                        "question": "Who or what was killed?"
+                    },
+                    {
+                        "answer": "Between 384 and 807",
+                        "question": "How many civilians were killed?"
+                    },
+                    {
+                        "answer": "Between 384 and 807 civilians were killed",
+                        "question": "What were the reported casualties in those countries?"
+                    },
+                    {
+                        "answer": "Last July",
+                        "question": "When did the White House release figures on the number of people killed in drone strikes?"
+                    },
+                    {
+                        "answer": "380 to 801",
+                        "question": "How many civilian deaths were recorded by the Bureau?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E8": [
+                    {
+                        "answer": "air",
+                        "question": "What is the subject of the strikes?"
+                    },
+                    {
+                        "answer": "Obama",
+                        "question": ""
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes targeted Pakistan, Somalia, and Yemen during Obama's two terms?"
+                    },
+                    {
+                        "answer": "57",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Between 384 and 807",
+                        "question": "How many civilians were killed in the targeted strikes in Pakistan, Somalia, and Yemen?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E9": [
+                    {
+                        "answer": "Bombs",
+                        "question": "What caused the killings?"
+                    },
+                    {
+                        "answer": "2015",
+                        "question": "When did the killings take place?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Where did the killings occur?"
+                    },
+                    {
+                        "answer": "Reports logged by the Bureau",
+                        "question": "How were the killings documented?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E10": [
+                    {
+                        "answer": "<b>drone strikes</b>",
+                        "question": "What were the causes of the deaths?"
+                    },
+                    {
+                        "answer": "\"563 strikes, largely by drones, targeted Pakistan, Somalia and Yemen during Obama\u2019s two terms.\"",
+                        "question": "\"Between 384 and 807 civilians were killed in those countries.\""
+                    },
+                    {
+                        "answer": "\"Between 384 and 807 civilians were killed in [Pakistan, Somalia, and Yemen].\"",
+                        "question": "Who were the victims of the deaths?"
+                    },
+                    {
+                        "answer": "\"The Bureau recorded 65 to 105 civilian deaths during this period [in Afghanistan].\"",
+                        "question": "How many civilian deaths were recorded? "
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E11": [
+                    {
+                        "answer": "President Barack Obama",
+                        "question": "Who oversaw the air strikes?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who was the predecessor of President Obama?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Which countries were targeted by the strikes?"
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes were carried out during Obama's two terms?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E12": [
+                    {
+                        "answer": "US",
+                        "question": "Which country was responsible for the bombardment?"
+                    },
+                    {
+                        "answer": "Afghanistan",
+                        "question": "Where did the bombardment take place?"
+                    },
+                    {
+                        "answer": "1,337",
+                        "question": "How many weapons were dropped during the bombardment?"
+                    },
+                    {
+                        "answer": "40% rise",
+                        "question": "What was the increase in bombardment compared to 2015?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E13": [
+                    {
+                        "answer": "In what country did the deaths occur?",
+                        "question": "The deaths occurred in Afghanistan and Pakistan."
+                    },
+                    {
+                        "answer": "How many civilian deaths were recorded in Afghanistan in 2016?",
+                        "question": "The United Nations reported at least 85 civilian deaths in Afghanistan in 2016."
+                    },
+                    {
+                        "answer": "How many drone strikes resulted in deaths between January 2009 and the end of 2015?",
+                        "question": "The US estimated between 64 and 116 deaths from drone strikes during that time period."
+                    },
+                    {
+                        "answer": "How does the Bureau's estimate of civilian deaths from drone strikes compare to the US's estimate?",
+                        "question": "The Bureau's estimate of civilian deaths, between 380 and 801, was six times higher than the US's estimate."
+                    },
+                    {
+                        "answer": "How many weapons were dropped in Afghanistan in 2016?",
+                        "question": "1,337 weapons were dropped in Afghanistan in 2016."
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E14": [
+                    {
+                        "answer": "380 to 801",
+                        "question": "How many civilians' deaths were recorded by the Bureau?"
+                    },
+                    {
+                        "answer": "United Nations (UN)",
+                        "question": "Which organization reported at least 85 deaths in Afghanistan in 2016?"
+                    },
+                    {
+                        "answer": "Afghanistan",
+                        "question": "In which country have civilian casualties been high?"
+                    },
+                    {
+                        "answer": "We did not start collecting data on Afghanistan until 2015.",
+                        "question": "When did data collection on Afghanistan start?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E15": [
+                    {
+                        "answer": "Barack Obama",
+                        "question": "Who oversaw the most strikes?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who oversaw fewer strikes than Barack Obama?"
+                    },
+                    {
+                        "answer": "563 strikes",
+                        "question": "How many strikes targeted Pakistan, Somalia, and Yemen during Obama's two terms?"
+                    },
+                    {
+                        "answer": "1,337 weapons",
+                        "question": "How many weapons were dropped in Afghanistan in 2016?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E16": [
+                    {
+                        "answer": "covert war on terror",
+                        "question": "What kind of war were the strikes a part of?"
+                    },
+                    {
+                        "answer": "President Barack Obama",
+                        "question": "Who oversaw the strikes?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who was the predecessor of Obama?"
+                    },
+                    {
+                        "answer": "drones",
+                        "question": "What was the primary method used for the strikes?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Which countries were targeted by the strikes?"
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes were carried out during Obama's two terms?"
+                    },
+                    {
+                        "answer": "57",
+                        "question": "How many strikes were carried out under Bush's presidency?"
+                    },
+                    {
+                        "answer": "between 384 and 807",
+                        "question": "How many civilians were killed in those countries?"
+                    },
+                    {
+                        "answer": "al Qaeda",
+                        "question": "What terrorist group was the war against?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E17": [
+                    {
+                        "answer": "President Barack Obama",
+                        "question": "Who oversaw more strikes than his predecessor?"
+                    },
+                    {
+                        "answer": "George W. Bush",
+                        "question": "Who was President before Obama?"
+                    },
+                    {
+                        "answer": "His first year",
+                        "question": "When did Obama oversee more strikes than Bush?"
+                    },
+                    {
+                        "answer": "Pakistan, Somalia, and Yemen",
+                        "question": "Which countries were targeted with the strikes?"
+                    },
+                    {
+                        "answer": "563",
+                        "question": "How many strikes were carried out during Obama's two terms?"
+                    },
+                    {
+                        "answer": "57",
+                        "question": "How many strikes were carried out under Bush?"
+                    },
+                    {
+                        "answer": "Reports logged by the Bureau",
+                        "question": "Which reports provide information on the civilian casualties?"
+                    },
+                    {
+                        "answer": "Between 384 and 807",
+                        "question": "How many civilians were killed in the countries targeted by the strikes?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E18": [
+                    {
+                        "answer": "How many strikes were carried out during President Barack Obama's presidency? ",
+                        "question": "There were ten times more airstrikes in the covert war on terror during President Barack Obama\u2019s presidency than under his predecessor, George W. Bush."
+                    },
+                    {
+                        "answer": "Obama oversaw more strikes in his first year than Bush carried out during his entire presidency.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "A total of 563 strikes, largely by drones, targeted Pakistan, Somalia, and Yemen during Obama\u2019s two terms.",
+                        "question": "Which countries were targeted by these strikes? "
+                    },
+                    {
+                        "answer": "Between 384 and 807 civilians were killed in those countries, according to reports logged by the Bureau.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The Obama administration has insisted that drone strikes are so \"exceptionally surgical and precise\" that they pluck off terror suspects while not putting \"innocent men, women, and children in danger\".",
+                        "question": "How did the Obama administration describe the precision of their drone strikes? "
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_ied_bombings_10": {
+        "events": [
+            {
+                "wiki_ied_bombings_10-E1": [
+                    {
+                        "answer": "A Provisional IRA bomb exploded.",
+                        "question": "What happened at the Caterham Arms public house in Caterham, Surrey, England?"
+                    },
+                    {
+                        "answer": "There were no fatalities.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "33 people were injured.",
+                        "question": "How many people were injured in the explosion?"
+                    },
+                    {
+                        "answer": "The Balcombe Street Gang, a unit of the Provisional IRA, planted the bomb.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The bomb exploded at 9:20.",
+                        "question": "When did the bomb explode at the pub?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E2": [
+                    {
+                        "answer": "23 civilians and 10 off-duty soldiers.",
+                        "question": "Who was injured in the bombing?"
+                    },
+                    {
+                        "answer": "33 people.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"Some of the injuries were very serious, with at least three soldiers losing limbs.\"",
+                        "question": "How severe were some of the injuries?"
+                    },
+                    {
+                        "answer": "\"The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"The bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers.\"",
+                        "question": "What caused the injuries?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E3": [
+                    {
+                        "answer": "Southern England",
+                        "question": "Where did the attacks mainly take place?"
+                    },
+                    {
+                        "answer": "9:20",
+                        "question": "At what time did the bomb explode at the Caterham Arms public house?"
+                    },
+                    {
+                        "answer": "23 civilians and 10 off-duty soldiers",
+                        "question": "How many people were injured in the bombing at the Caterham Arms public house?"
+                    },
+                    {
+                        "answer": "Oxford Street",
+                        "question": "Where did the same IRA unit explode a bomb the next day after the bombing at the Caterham Arms public house?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E4": [
+                    {
+                        "answer": "Where did the explosion happen?",
+                        "question": "The Caterham Arms public house in Caterham, Surrey, England."
+                    },
+                    {
+                        "answer": "",
+                        "question": "The Balcombe Street Gang, an IRA unit."
+                    },
+                    {
+                        "answer": "How many people were injured in the explosion?",
+                        "question": "33 people were injured."
+                    },
+                    {
+                        "answer": "",
+                        "question": "No, there were no fatalities."
+                    },
+                    {
+                        "answer": "What time did the explosion occur?",
+                        "question": "The bomb exploded at 9:20."
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E5": [
+                    {
+                        "answer": "\"The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey.\"",
+                        "question": "What caused the injuries?"
+                    },
+                    {
+                        "answer": "\"at the Caterham Arms public house in Caterham, Surrey, England.\"",
+                        "question": "Where did the injuries occur?"
+                    },
+                    {
+                        "answer": "\"33 people were injured.\"",
+                        "question": "How many people were injured?"
+                    },
+                    {
+                        "answer": "\"There were no fatalities.\"",
+                        "question": "Were there any fatalities?"
+                    },
+                    {
+                        "answer": "\"The Balcombe Street Gang planted a time bomb.\"",
+                        "question": "Who was responsible for the injuries?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E6": [
+                    {
+                        "answer": "Provisional IRA",
+                        "question": "Who or what exploded?"
+                    },
+                    {
+                        "answer": "9:20",
+                        "question": "When did the explosion occur?"
+                    },
+                    {
+                        "answer": "bomb",
+                        "question": "What exploded?"
+                    },
+                    {
+                        "answer": "Caterham Arms public house",
+                        "question": "Where did the explosion happen?"
+                    },
+                    {
+                        "answer": "23 civilians and 10 off-duty soldiers",
+                        "question": "Who was injured in the explosion?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E7": [
+                    {
+                        "answer": "The bomb exploding.",
+                        "question": "What caused the injuries?"
+                    },
+                    {
+                        "answer": "33 people were injured.",
+                        "question": "How many people were injured?"
+                    },
+                    {
+                        "answer": "At the Caterham Arms public house in Caterham, Surrey, England.",
+                        "question": "Where did the injuries occur?"
+                    },
+                    {
+                        "answer": "The Provisional IRA.",
+                        "question": "Who caused the injuries?"
+                    },
+                    {
+                        "answer": "The bomb exploded at 9:20.",
+                        "question": "What time did the bomb explode?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E8": [
+                    {
+                        "answer": "bomb",
+                        "question": "What caused the explosion?"
+                    },
+                    {
+                        "answer": "Caterham Arms public house in Caterham, Surrey, England",
+                        "question": "Where did the explosion occur?"
+                    },
+                    {
+                        "answer": "9:20 AM",
+                        "question": "What time did the explosion happen?"
+                    },
+                    {
+                        "answer": "injuring 23 civilians and 10 off-duty soldiers",
+                        "question": "Who did the explosion injure?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E9": [
+                    {
+                        "answer": "bombings",
+                        "question": "What caused the deaths?"
+                    },
+                    {
+                        "answer": "hundreds",
+                        "question": "How many people were injured as a result of the bombings?"
+                    },
+                    {
+                        "answer": "London and elsewhere in southern England",
+                        "question": "Where did the bombings occur?"
+                    },
+                    {
+                        "answer": "close to 50",
+                        "question": "What was the total number of bombs planted by the IRA unit?"
+                    },
+                    {
+                        "answer": "December 1975",
+                        "question": "When did the IRA unit start their bombing campaign?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E10": [
+                    {
+                        "answer": "33 people",
+                        "question": "How many people were injured in the bombing?"
+                    },
+                    {
+                        "answer": "Two off-duty soldiers",
+                        "question": "Who were the two people who lost their legs as a result of the bombing?"
+                    },
+                    {
+                        "answer": "the Balcombe Street Gang",
+                        "question": "Who was responsible for the bombing?"
+                    },
+                    {
+                        "answer": "9:20",
+                        "question": "What time did the bomb explode?"
+                    },
+                    {
+                        "answer": "23 civilians and 10 off-duty soldiers",
+                        "question": "Who got injured in the bombing?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E11": [
+                    {
+                        "answer": "Property",
+                        "question": "What was damaged?"
+                    },
+                    {
+                        "answer": "Millions of pounds",
+                        "question": "How much was the damage worth?"
+                    },
+                    {
+                        "answer": "Nearly 20 people",
+                        "question": "How many people were injured?"
+                    },
+                    {
+                        "answer": "London and elsewhere in southern England",
+                        "question": "Where did the damage occur?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E12": [
+                    {
+                        "answer": "Two off-duty soldiers",
+                        "question": "Who lost their legs as a result of the bombing?"
+                    },
+                    {
+                        "answer": "33 people",
+                        "question": ""
+                    },
+                    {
+                        "answer": "They lost their legs",
+                        "question": "What did the bombing cause for the soldiers?"
+                    },
+                    {
+                        "answer": "The blast blew the roof off the pub",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Close to 50 bombs",
+                        "question": "How many bombs did the IRA unit end up planting in London and southern England?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E13": [
+                    {
+                        "answer": "Edward Heath",
+                        "question": "Wh* was the target of the assassination attempt?"
+                    },
+                    {
+                        "answer": "22 December 1974",
+                        "question": "Wh* was the date of the assassination attempt?"
+                    },
+                    {
+                        "answer": "bomb",
+                        "question": "Wh* was thrown into Edward Heath's bedroom window?"
+                    },
+                    {
+                        "answer": "his bedroom window",
+                        "question": "Wh* did the attackers throw the bomb into?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E14": [
+                    {
+                        "answer": "\"threw a bomb into his bedroom window\"",
+                        "question": "What did the attackers do to Edward Heath's bedroom window?"
+                    },
+                    {
+                        "answer": "\"There were no fatalities but 33 people were injured, some severely.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"Two off-duty soldiers lost their legs as a result of the bombing.\"",
+                        "question": "How many off-duty soldiers lost their legs as a result of the bombing?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E15": [
+                    {
+                        "answer": "33 people were injured.",
+                        "question": "How many people were injured in the bombing at the Caterham Arms public house?"
+                    },
+                    {
+                        "answer": "Two off-duty soldiers.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The bomb was placed under a seat in a duffel bag.",
+                        "question": "Where was the bomb placed in the Caterham Arms public house?"
+                    },
+                    {
+                        "answer": "The blast blew the roof off the pub.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Some of the injuries were very serious, with at least three soldiers losing limbs.",
+                        "question": "How serious were some of the injuries caused by the bombing?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E16": [
+                    {
+                        "answer": "Two off-duty soldiers.",
+                        "question": "Who lost their legs as a result of the bombing?"
+                    },
+                    {
+                        "answer": "They lost their legs.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "33 people were injured.",
+                        "question": "How many people were injured in the bombing?"
+                    },
+                    {
+                        "answer": "Some of the injuries were very serious, with at least three soldiers losing limbs.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The bombing attack caused the injuries.",
+                        "question": "What kind of attack caused the injuries?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E17": [
+                    {
+                        "answer": "Balcombe Street Gang",
+                        "question": "Who planted the bomb?"
+                    },
+                    {
+                        "answer": "Caterham Arms public house",
+                        "question": "Where was the bomb planted?"
+                    },
+                    {
+                        "answer": "9:20",
+                        "question": "What time did the bomb explode?"
+                    },
+                    {
+                        "answer": "23 civilians and 10 off-duty soldiers",
+                        "question": "How many people were injured?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E18": [
+                    {
+                        "answer": "\"monitor the ceasefire and the activity of the security forces.\"",
+                        "question": "What were the \u201cincident centres\u201d established to do?"
+                    },
+                    {
+                        "answer": "\"bomb and gun attacks in Southern England\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"former Prime Minister Edward Heath\"",
+                        "question": "Who was the target of a previous assassination attempt by the Balcombe Street Gang?"
+                    },
+                    {
+                        "answer": "\"close to 50 bombs\" ",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"deaths of nearly 20 people, injured hundreds, and caused millions of pounds worth of damage to property.\"",
+                        "question": "What were the consequences of the bombings and shootings carried out by the Balcombe Street Gang?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E19": [
+                    {
+                        "answer": "\"The IRA unit placed the 7lb bomb in a duffel bag under a seat.\"",
+                        "question": "What did the IRA unit do with the bomb?"
+                    },
+                    {
+                        "answer": "\"There was no warning and the bomb exploded at 9:20, injuring 23 civilians and 10 off-duty soldiers.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"The Balcombe Street Gang planted a time bomb in the Caterham Arms public house in Caterham, Surrey.\"",
+                        "question": "Where was the bomb placed?"
+                    },
+                    {
+                        "answer": "\"The IRA unit placed the 7lb bomb in a duffel bag under a seat.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"The IRA unit placed the 7lb bomb in a duffel bag under a seat.\"",
+                        "question": "How much was the bomb weighed?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E20": [
+                    {
+                        "answer": "One of the police officers.",
+                        "question": "What was the role of the person in charge?"
+                    },
+                    {
+                        "answer": "One of the police officers in charge of the investigation.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "They were caught at the siege of Balcombe Street.",
+                        "question": "What was the result of the investigation into the bombing?"
+                    },
+                    {
+                        "answer": "The Guildford pub bombings.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The bombings caused the deaths of nearly 20 people, injured hundreds, and caused millions of pounds worth of damage to property.",
+                        "question": "What were the consequences of the bombings of the Balcombe Street Gang?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E21": [
+                    {
+                        "answer": "four people",
+                        "question": "What were already serving for the Guildford pub bombings in October 1974?"
+                    },
+                    {
+                        "answer": "four",
+                        "question": "How many people were already serving for the Guildford pub bombings in October 1974?"
+                    },
+                    {
+                        "answer": "close to 50",
+                        "question": "How many bombs did the unit eventually end up planting in London and elsewhere in southern England?"
+                    },
+                    {
+                        "answer": "nearly 20",
+                        "question": "How many people did their bombings cause the deaths of?"
+                    },
+                    {
+                        "answer": "bombings",
+                        "question": "What caused millions of pounds worth of damage to property?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E22": [
+                    {
+                        "answer": "\"The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street.\"",
+                        "question": "What happened as a result of the event?"
+                    },
+                    {
+                        "answer": "\"they were caught at the siege of Balcombe Street.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"The cell's campaign would continue until December 1975 when they were caught at the siege of Balcombe Street.\"",
+                        "question": "When were the individuals caught?"
+                    },
+                    {
+                        "answer": "\"The unit would eventually end up planting close to 50 bombs in London and elsewhere in southern England.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"carrying out several shootings which... caused the deaths of nearly 20 people\"",
+                        "question": "How many shootings did the unit carry out?"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E23": [
+                    {
+                        "answer": "Provisional Irish Republican Army",
+                        "question": "Who agreed?"
+                    },
+                    {
+                        "answer": "truce and ceasefire",
+                        "question": "What did the Provisional Irish Republican Army agree to?"
+                    },
+                    {
+                        "answer": "British government and the Northern Ireland Office",
+                        "question": "Who did the Provisional Irish Republican Army agree with?"
+                    },
+                    {
+                        "answer": "in Irish nationalist areas in Northern Ireland",
+                        "question": "Where were the incident centers established to monitor the ceasefire and security forces' activity?"
+                    },
+                    {
+                        "answer": "monitor",
+                        "question": "What were the incident centers established to do?"
+                    },
+                    {
+                        "answer": "bomb and gun attacks",
+                        "question": "What kind of attacks were the Balcombe Street Gang carrying out?"
+                    },
+                    {
+                        "answer": "assassination",
+                        "question": "What was the target of the Balcombe Street Gang's assassination attempt?"
+                    },
+                    {
+                        "answer": "former Prime Minister Edward Heath",
+                        "question": "Who was the target of the Balcombe Street Gang's assassination attempt?"
+                    },
+                    {
+                        "answer": "threw",
+                        "question": "How did the attackers attempt to assassinate Edward Heath?"
+                    },
+                    {
+                        "answer": "planted",
+                        "question": "What did the Balcombe Street Gang do with the bomb in the Caterham Arms pub?"
+                    },
+                    {
+                        "answer": "23 civilians and 10 off-duty soldiers",
+                        "question": "Who was injured in the bombing at the Caterham Arms pub?"
+                    },
+                    {
+                        "answer": "several people",
+                        "question": "Who got injured in the bomb explosion in Oxford Street?"
+                    },
+                    {
+                        "answer": "caught",
+                        "question": "When were the Balcombe Street Gang caught?"
+                    },
+                    {
+                        "answer": "nearly 20 people",
+                        "question": "How many people died as a result of the bombings carried out by the Balcombe Street Gang?"
+                    },
+                    {
+                        "answer": "hundreds",
+                        "question": "How many people were injured as a result of the bombings carried out by the Balcombe Street Gang?"
+                    },
+                    {
+                        "answer": "millions of pounds worth of damage",
+                        "question": "What was the estimated cost of the property damage caused by the bombings carried out by the Balcombe Street Gang?"
+                    }
+                ]
+            }
+        ]
+    },
+    "backpack_ied_20": {
+        "events": [
+            {
+                "backpack_ied_20-E1": [
+                    {
+                        "answer": "Sidewalk or marketplace crowds",
+                        "question": "What were the bombings targeting?"
+                    },
+                    {
+                        "answer": "American soil",
+                        "question": "Where did the sidewalk bombings take place?"
+                    },
+                    {
+                        "answer": "Multiple homemade bombs",
+                        "question": "What were the bombs detonated nearly simultaneously?"
+                    },
+                    {
+                        "answer": "Militant groups in recent years from Iraq to Israel and Afghanistan and Russia",
+                        "question": "Which groups have used street-level bombings?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E2": [
+                    {
+                        "answer": "Mideast",
+                        "question": "What region is known for using improvised explosive devices (IEDs) in their attacks?"
+                    },
+                    {
+                        "answer": "Afghanistan, Pakistan, India, and Nepal",
+                        "question": "Which countries have experienced attacks involving pressure cookers?"
+                    },
+                    {
+                        "answer": "BB's, nails, and other projectiles",
+                        "question": "What types of objects were packed into the bombs used in the Boston marathon bombing?"
+                    },
+                    {
+                        "answer": "Oklahoma City in 1995 and the garage of the World Trade Center North Tower in 1993",
+                        "question": "What were the previous attacks in the US that targeted buildings as well as people?"
+                    },
+                    {
+                        "answer": "Al Qaeda, Hezbollah or one of its affiliates",
+                        "question": "What are some examples of well-known international terrorist groups?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E3": [
+                    {
+                        "answer": "Mideast",
+                        "question": "What region has had attacks using improvised explosive devices?"
+                    },
+                    {
+                        "answer": "Pressure cookers",
+                        "question": "What were the bombs in the Boston marathon attack packed into?"
+                    },
+                    {
+                        "answer": "BB's, nails, and other projectiles",
+                        "question": "What were the bombs in the marathon attack intended to maximize?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E4": [
+                    {
+                        "answer": "Mideast",
+                        "question": "Which region has used similar attacks using IEDs?"
+                    },
+                    {
+                        "answer": "Pressure cookers",
+                        "question": "What were the bombs packed into?"
+                    },
+                    {
+                        "answer": "BB's, nails, and other projectiles",
+                        "question": "What were the bombs in the marathon attack packed with?"
+                    },
+                    {
+                        "answer": "Buildings and people",
+                        "question": "What were the large truck bombs intended to damage?"
+                    },
+                    {
+                        "answer": "Domestic group or individual",
+                        "question": "Who might be responsible for the attacks?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E5": [
+                    {
+                        "answer": "Boylston Street",
+                        "question": "Where did the attack occur?"
+                    },
+                    {
+                        "answer": "Bombing",
+                        "question": "What type of attack was it?"
+                    },
+                    {
+                        "answer": "Twin bombings",
+                        "question": "How many bombings occurred?"
+                    },
+                    {
+                        "answer": "Three people",
+                        "question": "How many people were killed in the attack?"
+                    },
+                    {
+                        "answer": "More than 150",
+                        "question": "How many people were injured in the attack?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E6": [
+                    {
+                        "answer": "Three people were killed in the twin bombings on Boylston Street.",
+                        "question": "Who was killed in the twin bombings on Boylston Street?"
+                    },
+                    {
+                        "answer": "Three people were killed in the marathon attack.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Three people died in the bombings near the Boston marathon finish line.",
+                        "question": "How many people died in the bombings near the Boston marathon finish line?"
+                    },
+                    {
+                        "answer": "The twin bombings on Boylston Street resulted in the death of three people.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "There were three fatalities in the bombings targeting the Boston marathon.",
+                        "question": "How many fatalities were there in the bombings targeting the Boston marathon?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E7": [
+                    {
+                        "answer": "more than 150",
+                        "question": "Who was injured in the Boston marathon bombing?"
+                    },
+                    {
+                        "answer": "sidewalk bombing",
+                        "question": "How many people were injured in the Boston marathon bombing?"
+                    },
+                    {
+                        "answer": "Boston",
+                        "question": "What kind of bombing resulted in the injuries?"
+                    },
+                    {
+                        "answer": "sidewalk or marketplace crowds",
+                        "question": "Where did the injuries occur?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E8": [
+                    {
+                        "answer": "Sidewalk or marketplace crowds",
+                        "question": "What were the targets of the attack?"
+                    },
+                    {
+                        "answer": "American soil",
+                        "question": "Where did the attack take place?"
+                    },
+                    {
+                        "answer": "Pressure cookers and hidden in backpacks or duffel bags",
+                        "question": "How were the bombs used in the attack concealed?"
+                    },
+                    {
+                        "answer": "The Pakistani Taliban",
+                        "question": "Who denied responsibility for the attack?"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E9": [
+                    {
+                        "answer": "a senior homeland security official in Washington",
+                        "question": "Who said that the Boston sidewalk bombing hadn't happened in the US before?"
+                    },
+                    {
+                        "answer": "multiple press accounts",
+                        "question": "According to whom were the bombs in the Boston marathon attack packed into pressure cookers and hidden in backpacks or duffel bags?"
+                    },
+                    {
+                        "answer": "a senior US law enforcement official in Washington",
+                        "question": "Who added that the fact that no group has taken responsibility for the attack has officials speculating that it might not be the work of a well-known international terrorist group?"
+                    },
+                    {
+                        "answer": "The Pakistani Taliban",
+                        "question": "Who said in a statement that they were not responsible for the attack?"
+                    },
+                    {
+                        "answer": "President Obama",
+                        "question": "Who approved a new strategy against IED use on February 26?"
+                    }
+                ]
+            }
+        ]
+    },
+    "scenario_en_kairos_16": {
+        "events": [
+            {
+                "scenario_en_kairos_16-E1": [
+                    {
+                        "answer": "U.S. embassies in East Africa",
+                        "question": "What were the targets of the bombings?"
+                    },
+                    {
+                        "answer": "Osama bin Laden",
+                        "question": "Who is charged with masterminding the bombings?"
+                    },
+                    {
+                        "answer": "1998",
+                        "question": "When did the bombings take place?"
+                    },
+                    {
+                        "answer": "The USS Cole",
+                        "question": "What was attacked in the October 2000 incident?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_16-E2": [
+                    {
+                        "answer": "World Trade Center",
+                        "question": "What was attacked in 2001?"
+                    },
+                    {
+                        "answer": "USS Cole",
+                        "question": "What was attacked in October 2000?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_16-E3": [
+                    {
+                        "answer": "The World Trade Center and the Pentagon",
+                        "question": "What were destroyed in the September 11, 2001 attack?"
+                    },
+                    {
+                        "answer": "Osama bin Laden",
+                        "question": "Who is the prime suspect in the destruction of the World Trade Center and the bombing of the Pentagon?"
+                    },
+                    {
+                        "answer": "East Africa",
+                        "question": "Where did the bombings of the two U.S. embassies take place?"
+                    },
+                    {
+                        "answer": "1998",
+                        "question": "When did the bombings of the two U.S. embassies occur?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_16-E4": [
+                    {
+                        "answer": "The bombings of two U.S. embassies in East Africa.",
+                        "question": "What is Osama bin Laden charged with masterminding?"
+                    },
+                    {
+                        "answer": "In the Yemeni port of Aden.",
+                        "question": "Where did the October 2000 attack on the USS Cole take place?"
+                    },
+                    {
+                        "answer": "The destruction of the World Trade Center and the bombing of the Pentagon on September 11, 2001.",
+                        "question": "What are the terrorist attacks that are linked or likely linked to bin Laden's network?"
+                    },
+                    {
+                        "answer": "Osama bin Laden.",
+                        "question": "Who is a prime suspect in the 9/11 attacks?"
+                    },
+                    {
+                        "answer": "A Pulitzer Prize-nominated team of New York Times reporters and FRONTLINE correspondent Lowell Bergman.",
+                        "question": "Who reported on the connection between bin Laden and the terrorist attacks?"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_mass_car_bombings_7_news_2": {
+        "events": [
+            {
+                "wiki_mass_car_bombings_7_news_2-E1": [
+                    {
+                        "answer": "Iraq",
+                        "question": "What is the target of the attacks?"
+                    },
+                    {
+                        "answer": "107 people",
+                        "question": ""
+                    },
+                    {
+                        "answer": "al-Qaida",
+                        "question": "Who warned about mounting new attacks?"
+                    },
+                    {
+                        "answer": "18 cities",
+                        "question": ""
+                    },
+                    {
+                        "answer": "in the town of Taji",
+                        "question": "Where did the deadliest attack take place?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E2": [
+                    {
+                        "answer": "\"107 people\" (from the passage)",
+                        "question": "Who was killed in the attacks?"
+                    },
+                    {
+                        "answer": "\"107 people\" (from the passage)",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"27 different attacks\" (from the passage)",
+                        "question": "How many attacks occurred?"
+                    },
+                    {
+                        "answer": "\"in 18 cities\" (from the passage)",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"on Monday\" (from the passage)",
+                        "question": "When did the attacks happen?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E3": [
+                    {
+                        "answer": "What happened in Iraq on Monday?",
+                        "question": "A wave of what happened across Iraq on Monday?"
+                    },
+                    {
+                        "answer": "107 people were killed.",
+                        "question": "How many people were killed in the attacks?"
+                    },
+                    {
+                        "answer": "At least 214 people were wounded.",
+                        "question": "How many people were wounded in the attacks?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E4": [
+                    {
+                        "answer": "At least 107 people were killed.",
+                        "question": "How many people were killed?"
+                    },
+                    {
+                        "answer": "42 people were killed in the attack in Taji.",
+                        "question": "How many people were killed in the Taji attack?"
+                    },
+                    {
+                        "answer": "At least 12 people were killed in the car bomb attack in Sadr City.",
+                        "question": "How many people were killed in the car bomb attack in Sadr City?"
+                    },
+                    {
+                        "answer": "At least 11 people were killed in Diyala province.",
+                        "question": "How many people were killed in Diyala province?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E5": [
+                    {
+                        "answer": "Monday",
+                        "question": "When did the deaths occur?"
+                    },
+                    {
+                        "answer": "107 people",
+                        "question": "How many people were killed?"
+                    },
+                    {
+                        "answer": "Iraq",
+                        "question": "Where did the deaths occur?"
+                    },
+                    {
+                        "answer": "authorities",
+                        "question": "Who reported the deaths?"
+                    },
+                    {
+                        "answer": "the country's deadliest day in more than two years",
+                        "question": "What makes this day significant?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E6": [
+                    {
+                        "answer": "\"A row of houses were completely destroyed.\" ",
+                        "question": "What were the houses in Taji like after the attack?"
+                    },
+                    {
+                        "answer": "\"Two other explosions in the Baghdad neighborhoods of Husseiniyah and Yarmouk killed at least four people and left 24 others wounded...\" ",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"Insurgents also launched attacks on a military base near the town of Dhuluiyah, killing at least 15 Iraqi soldiers...\"",
+                        "question": "How many Iraqi soldiers were killed in Dhuluiyah?"
+                    },
+                    {
+                        "answer": "\"A roadside bomb at a market in the center of the town of Diwaniyah killed three people and left 25 hurt...\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"In the western town of Heet, a car bomb exploded near an army patrol, killing one soldier and wounding 10 others...\"",
+                        "question": "How many people were killed in the attack in Heet?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E7": [
+                    {
+                        "answer": "107 people",
+                        "question": "Who was killed in the attacks?"
+                    },
+                    {
+                        "answer": "At least 214 people were wounded in 27 different attacks",
+                        "question": "How many people were killed in the attacks?"
+                    },
+                    {
+                        "answer": "107 people were killed",
+                        "question": "How many attacks were launched?"
+                    },
+                    {
+                        "answer": "At least 214 people were wounded in 27 different attacks",
+                        "question": "How many people were wounded in the attacks?"
+                    },
+                    {
+                        "answer": "18 cities",
+                        "question": "How many cities were the attacks launched in?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E8": [
+                    {
+                        "answer": "At least how many people were killed in the attacks?",
+                        "question": "\"A wave of attacks across Iraq on Monday killed 107 people in the country's deadliest day in more than two years after al-Qaida warned it would mount new attacks and sought to retake territory.\""
+                    },
+                    {
+                        "answer": "The attacks killed 107 people. ",
+                        "question": ""
+                    },
+                    {
+                        "answer": "How many attacks were launched?",
+                        "question": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities, shattering a relative calm which had held in the lead-up to the start on Saturday of the holy Muslim fasting month of Ramadan.\""
+                    },
+                    {
+                        "answer": "27 different attacks were launched.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Where did the deadliest attack occur?",
+                        "question": "\"In Monday's deadliest attack -- a string of roadside bombs and a car bomb followed by a suicide attack targeting emergency responders in the town of Taji -- at least 42 people were killed and 40 wounded, according to two medical officials.\""
+                    },
+                    {
+                        "answer": "The deadliest attack occurred in Taji.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "How many people were killed in the attack in Sadr City?",
+                        "question": "\"In Baghdad, meanwhile, a car bomb outside a government office responsible for producing identity papers in the Shiite bastion of Sadr City killed at least 12 people and wounded 22 others, security and medical officials said.\""
+                    },
+                    {
+                        "answer": "12 people were killed in the attack in Sadr City.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "How many people were killed in the attack near the town of Dhuluiyah?",
+                        "question": "\"Insurgents also launched attacks on a military base near the town of Dhuluiyah, killing at least 15 Iraqi soldiers and leaving two others wounded, according to two security officials.\""
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E9": [
+                    {
+                        "answer": "Attacks",
+                        "question": "What caused the deaths and destruction in Iraq?"
+                    },
+                    {
+                        "answer": "107 people",
+                        "question": ""
+                    },
+                    {
+                        "answer": "18 cities",
+                        "question": "How many cities were targeted in the series of attacks?"
+                    },
+                    {
+                        "answer": "A string of roadside bombs and a car bomb followed by a suicide attack",
+                        "question": ""
+                    },
+                    {
+                        "answer": "At least 42 people",
+                        "question": "How many people were killed in the attack in Taji?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E10": [
+                    {
+                        "answer": "across Iraq",
+                        "question": "Where did the attacks occur?"
+                    },
+                    {
+                        "answer": "Monday",
+                        "question": "When did the attacks happen?"
+                    },
+                    {
+                        "answer": "killed",
+                        "question": "What was the result of the attacks?"
+                    },
+                    {
+                        "answer": "al-Qaida",
+                        "question": "Who warned about the attacks?"
+                    },
+                    {
+                        "answer": "107 people",
+                        "question": "How many people were killed in the attacks?"
+                    },
+                    {
+                        "answer": "18 cities",
+                        "question": "How many cities were targeted in the attacks?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E11": [
+                    {
+                        "answer": "\"A wave of attacks across Iraq on Monday killed 107 people.\" ",
+                        "question": "How many people were killed in the attacks in Iraq?"
+                    },
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"In Monday's deadliest attack -- a string of roadside bombs and a car bomb followed by a suicide attack targeting emergency responders in the town of Taji -- at least 42 people were killed and 40 wounded.\"",
+                        "question": "How many people were killed in the attack in Taji?"
+                    },
+                    {
+                        "answer": "\"In Baghdad, meanwhile, a car bomb outside a government office responsible for producing identity papers in the Shiite bastion of Sadr City killed at least 12 people and wounded 22 others.\"",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"Insurgents also launched attacks on a military base near the town of Dhuluiyah, killing at least 15 Iraqi soldiers and leaving two others wounded.\"",
+                        "question": "How many Iraqi soldiers were killed in the attack near the town of Dhuluiyah?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E12": [
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities\" (direct quote from the passage).",
+                        "question": "Who were wounded in the attacks?"
+                    },
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities\" (direct quote from the passage).",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities\" (direct quote from the passage).",
+                        "question": "How many attacks led to people getting wounded?"
+                    },
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities\" (direct quote from the passage).",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities\" (direct quote from the passage).",
+                        "question": "How many cities were affected by the attacks that caused people to get wounded?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E13": [
+                    {
+                        "answer": "Checkpoint shootings and bomb blasts in restive ethnically-mixed Diyala province killed 11 people and left 40 others wounded.",
+                        "question": "How many people were killed in the checkpoint shootings in Diyala province?"
+                    },
+                    {
+                        "answer": "Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities.",
+                        "question": "How many people were wounded in the attacks?"
+                    },
+                    {
+                        "answer": "Two other attacks in the same province -- a shooting at a checkpoint and a car bomb near a Shiite mosque -- left three people dead and six wounded, officials said.",
+                        "question": "How many people were wounded in the shooting at a checkpoint in the same province?"
+                    },
+                    {
+                        "answer": "Nine bomb blasts, some of them minutes apart, meanwhile killed seven people and wounded 29 in Kirkuk city and the eponymous province's towns of Dibis and Tuz Khurmatu.",
+                        "question": "How many people were killed in the bomb blasts in Kirkuk city and its neighboring towns?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E14": [
+                    {
+                        "answer": "<b>attacks</b>",
+                        "question": "What were the <b>blasts</b> a part of?"
+                    },
+                    {
+                        "answer": "17",
+                        "question": "How many people were <b>killed</b> in the recent <b>blasts</b>?"
+                    },
+                    {
+                        "answer": "Monday",
+                        "question": "When did the deadliest <b>attacks</b> occur?"
+                    },
+                    {
+                        "answer": "injured",
+                        "question": "How many people were <b>wounded</b> in the 27 different <b>blasts</b>?"
+                    },
+                    {
+                        "answer": "seven",
+                        "question": "How many people were <b>killed</b> in the <b>blasts</b> in Kirkuk city and the surrounding towns?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E15": [
+                    {
+                        "answer": "\"Officials said at least 214 people were wounded in 27 different attacks launched in 18 cities.\"",
+                        "question": "What were the consequences of the blasts?"
+                    },
+                    {
+                        "answer": "\"In Monday's deadliest attack -- a string of roadside bombs and a car bomb followed by a suicide attack targeting emergency responders in the town of Taji -- at least 42 people were killed and 40 wounded.\"",
+                        "question": "Where did the deadliest blast occur?"
+                    },
+                    {
+                        "answer": "\"We asked the neighbors to leave their houses, but when they were leaving, the bomb went off.\"",
+                        "question": "How did the witness describe the blast in Taji?"
+                    },
+                    {
+                        "answer": "\"An Agence France Presse reporter at the scene said a row of houses were completely destroyed.\"",
+                        "question": "What happened to the houses near the blast in Taji?"
+                    },
+                    {
+                        "answer": "\"In Baghdad, meanwhile, a car bomb outside a government office responsible for producing identity papers in the Shiite bastion of Sadr City killed at least 12 people and wounded 22 others.\"",
+                        "question": "Did any government office get targeted by blasts?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E16": [
+                    {
+                        "answer": "107 people",
+                        "question": "How many people died in the attacks?"
+                    },
+                    {
+                        "answer": "42 people",
+                        "question": "How many people were killed in the deadliest attack?"
+                    },
+                    {
+                        "answer": "the town of Taji",
+                        "question": "Where did the deadliest attack happen?"
+                    },
+                    {
+                        "answer": "at least 15 Iraqi soldiers",
+                        "question": "Who was killed in the attack on the military base?"
+                    },
+                    {
+                        "answer": "the highest since May 10, 2010",
+                        "question": "When was the last time a higher death toll was recorded?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E17": [
+                    {
+                        "answer": "A car bomb <b>exploded</b> near an army patrol.",
+                        "question": "What caused the explosion?"
+                    },
+                    {
+                        "answer": "The car bomb.",
+                        "question": "Where did the explosion occur?"
+                    },
+                    {
+                        "answer": "Near an army patrol.",
+                        "question": "Who or what was near the explosion?"
+                    },
+                    {
+                        "answer": "An army patrol.",
+                        "question": "How many people were killed in the explosion?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E18": [
+                    {
+                        "answer": "\"A wave of attacks across Iraq on Monday killed 107 people in the country's deadliest day in more than two years\"",
+                        "question": "What happened during the bombings?"
+                    },
+                    {
+                        "answer": "\"at least 107 people were killed\"",
+                        "question": "How many people were killed in the bombings?"
+                    },
+                    {
+                        "answer": "\"27 different attacks\"",
+                        "question": "How many different attacks were launched?"
+                    },
+                    {
+                        "answer": "\"18 cities\"",
+                        "question": "In how many cities were the attacks launched?"
+                    },
+                    {
+                        "answer": "\"In Monday's deadliest attack... at least 42 people were killed and 40 wounded\"",
+                        "question": "What was the deadliest attack?"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_mass_car_bombings_0_news_9": {
+        "events": [
+            {
+                "wiki_mass_car_bombings_0_news_9-E1": [
+                    {
+                        "answer": "Colombia",
+                        "question": "Who made the request?"
+                    },
+                    {
+                        "answer": "Extradite",
+                        "question": "What did Colombia request?"
+                    },
+                    {
+                        "answer": "Cuba",
+                        "question": "Who did Colombia request from?"
+                    },
+                    {
+                        "answer": "Rebels",
+                        "question": "Who did Colombia request to be extradited?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E2": [
+                    {
+                        "answer": "Cuba",
+                        "question": "Which country sidestepped the request?"
+                    },
+                    {
+                        "answer": "Colombia",
+                        "question": "Whose request did Cuba sidestep?"
+                    },
+                    {
+                        "answer": "rebels",
+                        "question": "Who made the request to Cuba?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E3": [
+                    {
+                        "answer": "Bogota",
+                        "question": "Where did the bombing take place?"
+                    },
+                    {
+                        "answer": "ELN",
+                        "question": "Which group was blamed for the bombing?"
+                    },
+                    {
+                        "answer": "Cuba",
+                        "question": "Who did Colombia ask to extradite the rebels?"
+                    },
+                    {
+                        "answer": "20",
+                        "question": "How many people were killed in the bombing?"
+                    },
+                    {
+                        "answer": "Police academy",
+                        "question": "What was the target of the bombing?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E4": [
+                    {
+                        "answer": "Ivan Duque",
+                        "question": "Who urged?"
+                    },
+                    {
+                        "answer": "Communist-ruled Cuba",
+                        "question": "Who was Ivan Duque urging?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E5": [
+                    {
+                        "answer": "Car bombing",
+                        "question": "What event resulted in casualties?"
+                    },
+                    {
+                        "answer": "20 people",
+                        "question": "How many people were killed in the car bombing?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E6": [
+                    {
+                        "answer": "\"Colombia blamed the leftist ELN for the bombing of a police academy in Bogota\" ",
+                        "question": "What caused the damage in Bogota?"
+                    },
+                    {
+                        "answer": "\"Colombia blamed the leftist ELN for the bombing of a police academy in Bogota\"",
+                        "question": "Who was blamed for the bombing in Bogota?"
+                    },
+                    {
+                        "answer": "\"the bombing of a police academy in Bogota that killed 20 people as well as the attacker\"",
+                        "question": "What was the result of the bombing in Bogota?"
+                    },
+                    {
+                        "answer": "\"the bombing of a police academy in Bogota that killed 20 people as well as the attacker\"",
+                        "question": "Who was killed in the bombing in Bogota?"
+                    },
+                    {
+                        "answer": "\"Friday\"",
+                        "question": "When did the bombing in Bogota occur?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E7": [
+                    {
+                        "answer": "Colombia",
+                        "question": "Who asked?"
+                    },
+                    {
+                        "answer": "Cuba",
+                        "question": "Who is being asked?"
+                    },
+                    {
+                        "answer": "ELN rebels",
+                        "question": "Who or what is being asked to be handed over?"
+                    },
+                    {
+                        "answer": "Havana",
+                        "question": "Where is the request being made?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E8": [
+                    {
+                        "answer": "Colombia asked Cuba to capture ELN rebel commander Nicolas Rodriguez.",
+                        "question": "What did Colombia ask Cuba to do?"
+                    },
+                    {
+                        "answer": "Colombia wanted Cuba to capture ELN rebel commander Nicolas Rodriguez.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The passage does not mention whether the Cuban government publicly responded to the request.",
+                        "question": "Has the Cuban government publicly responded to the request to capture Nicolas Rodriguez?"
+                    },
+                    {
+                        "answer": "The Colombian government asked Cuba to act on an Interpol Red Notice against Rodriguez.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Yes, the passage mentions that Colombia experienced several years of relative calm since the 2016 peace accord with the Revolutionary Armed Forces of Colombia (FARC) fighters.",
+                        "question": "Did Colombia experience relative calm after the 2016 peace accord?"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E9": [
+                    {
+                        "answer": "Colombians, including Duque, planned to join in a march on Sunday to protest against the car bombing, the worst such attack in the country in 16 years.",
+                        "question": "What are Colombians planning to do in response to the car bombing?"
+                    },
+                    {
+                        "answer": "the worst such attack in the country in 16 years.",
+                        "question": "What is significant about the car bombing in relation to other attacks in the country?"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_drone_strikes_1_news_1": {
+        "events": [
+            {
+                "wiki_drone_strikes_1_news_1-E1": [
+                    {
+                        "answer": "Yasuo Yamamoto",
+                        "question": "Who was arrested?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E2": [
+                    {
+                        "answer": "A drone",
+                        "question": "What was found?"
+                    },
+                    {
+                        "answer": "Wednesday",
+                        "question": "When was it found?"
+                    },
+                    {
+                        "answer": "traces of radiation",
+                        "question": "What did the drone have?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E4": [
+                    {
+                        "answer": "off-duty intelligence employee",
+                        "question": "Who crashed?"
+                    },
+                    {
+                        "answer": "White House",
+                        "question": "Where did the crash happen?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E5": [
+                    {
+                        "answer": "Fukushima plant",
+                        "question": "What is the specific disaster being referred to?"
+                    },
+                    {
+                        "answer": "2011 tsunami-triggered",
+                        "question": "What triggered the disaster at the Fukushima plant?"
+                    },
+                    {
+                        "answer": "All reactors",
+                        "question": "How many reactors were affected by the disaster?"
+                    },
+                    {
+                        "answer": "Currently all offline",
+                        "question": "What is the current operational status of the reactors following the disaster?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E6": [
+                    {
+                        "answer": "Yasuo Yamamoto",
+                        "question": "Who was arrested?"
+                    },
+                    {
+                        "answer": "Japanese police",
+                        "question": "Who arrested the man?"
+                    },
+                    {
+                        "answer": "flying the drone and obstructing duties at the prime minister's office",
+                        "question": "What was Yasuo Yamamoto arrested for?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E7": [
+                    {
+                        "answer": "Yasuo Yamamoto",
+                        "question": "Who was arrested for obstructing duties?"
+                    },
+                    {
+                        "answer": "flying the drone",
+                        "question": "What was Yamamoto arrested for?"
+                    },
+                    {
+                        "answer": "at the prime minister's office",
+                        "question": "Where did the obstruction of duties occur?"
+                    },
+                    {
+                        "answer": "prime minister's office",
+                        "question": "What duties were obstructed?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E8": [
+                    {
+                        "answer": "unmanned aerial devices",
+                        "question": "What type of devices were feared to be used in potential terrorist attacks?"
+                    },
+                    {
+                        "answer": "Yasuo Yamamoto",
+                        "question": "Who was arrested for flying the drone and obstructing duties at the prime minister's office?"
+                    },
+                    {
+                        "answer": "radioactive cesium",
+                        "question": "What was the suspected source of the low-level radioactive sand found on the drone?"
+                    },
+                    {
+                        "answer": "to protest the government's nuclear energy policy",
+                        "question": "Why did the suspect admit to landing the drone on the roof of the prime minister's office?"
+                    }
+                ]
+            }
+        ]
+    },
+    "scenario_en_kairos_2": {
+        "events": [
+            {
+                "scenario_en_kairos_2-E1": [
+                    {
+                        "answer": "Murder of U.S. Nationals Outside the United States",
+                        "question": "What was the charge of Abdullah Ahmed Abdullah?"
+                    },
+                    {
+                        "answer": "U.S. Nationals",
+                        "question": "What was the target of Abdullah Ahmed Abdullah's attack?"
+                    },
+                    {
+                        "answer": "Resulting in Death",
+                        "question": "What was the result of the attack?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E2": [
+                    {
+                        "answer": "U.S. Nationals ",
+                        "question": "Who was murdered?"
+                    },
+                    {
+                        "answer": "Outside the United States",
+                        "question": "Where did the murder take place?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E3": [
+                    {
+                        "answer": "Abdullah Ahmed Abdullah",
+                        "question": "Who is associated with the attack?"
+                    },
+                    {
+                        "answer": "U.S. Nationals",
+                        "question": "Who did the attack target?"
+                    },
+                    {
+                        "answer": "Outside the United States",
+                        "question": "Where did the attack take place?"
+                    },
+                    {
+                        "answer": "Murder",
+                        "question": "What was the goal of the attack?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E4": [
+                    {
+                        "answer": "Murder of U.S. Nationals Outside the United States; Conspiracy to Murder U.S. Nationals Outside the United States; Attack on a Federal Facility Resulting in Death; Conspiracy to Kill U.S. Nationals, to Murder, to Destroy Buildings and Property of the United States, and to Destroy the National Defense Utilities of the United States",
+                        "question": "What are some of the crimes associated with the trigger?"
+                    },
+                    {
+                        "answer": "Abdullah Ahmed Abdullah",
+                        "question": "Who is associated with the trigger?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E5": [
+                    {
+                        "answer": "Abdullah Ahmed Abdullah",
+                        "question": "Who was involved in the kill? "
+                    },
+                    {
+                        "answer": "U.S. Nationals Outside the United States",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Death",
+                        "question": "What was the result of the kill?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E6": [
+                    {
+                        "answer": "U.S. Nationals",
+                        "question": "Whom did the murder target?"
+                    },
+                    {
+                        "answer": "Outside the United States",
+                        "question": "Where did the murder take place?"
+                    },
+                    {
+                        "answer": "Conspiracy to murder U.S. Nationals Outside the United States",
+                        "question": "What crime was planned in addition to the murder of U.S. Nationals?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E7": [
+                    {
+                        "answer": "Buildings and Property of the United States",
+                        "question": "What did they destroy?"
+                    },
+                    {
+                        "answer": "the National Defense Utilities of the United States",
+                        "question": "What else did they destroy?"
+                    },
+                    {
+                        "answer": "U.S. Nationals, to Murder",
+                        "question": "Who did they intend to destroy?"
+                    },
+                    {
+                        "answer": "U.S. Nationals Outside the United States",
+                        "question": "Where did they intend to destroy U.S. nationals?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E8": [
+                    {
+                        "answer": "Conspiracy to destroy buildings and property of the United States.",
+                        "question": "What is the event triggered by the word \"destroy\"?"
+                    },
+                    {
+                        "answer": "Abdullah Ahmed Abdullah and other aliases, including Abu Mohamed Al-Masri and Abu Muhammad al Masri.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The buildings and property of the United States.",
+                        "question": "What is being targeted in the conspiracy to destroy buildings and property of the United States?"
+                    },
+                    {
+                        "answer": "Buildings and property of the United States.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The National Defense Utilities of the United States.",
+                        "question": "What entities are being targeted in the conspiracy to destroy the National Defense Utilities of the United States?"
+                    }
+                ]
+            }
+        ]
+    },
+    "road_ied_12": {
+        "events": [
+            {
+                "road_ied_12-E1": [
+                    {
+                        "answer": "Taliban militants.",
+                        "question": "Who was killed in Afghanistan?"
+                    },
+                    {
+                        "answer": "Seven.",
+                        "question": "How many militants were killed in total?"
+                    },
+                    {
+                        "answer": "In Afghanistan's southern Kandahar province.",
+                        "question": "Where did the accidental explosions occur?"
+                    },
+                    {
+                        "answer": "The improvised explosive device (IED) they were planting detonated accidentally.",
+                        "question": "How did the three militants get killed?"
+                    },
+                    {
+                        "answer": "The vehicle they were traveling touched off an IED.",
+                        "question": "What caused the explosion that killed the four militants in Shah Wali Kot district?"
+                    }
+                ]
+            },
+            {
+                "road_ied_12-E3": [
+                    {
+                        "answer": "Seven Taliban militants ",
+                        "question": "Who were killed in the blasts?"
+                    },
+                    {
+                        "answer": "Afghanistan's southern Kandahar province ",
+                        "question": "Where did the killings occur?"
+                    },
+                    {
+                        "answer": "Two accidental explosions ",
+                        "question": "How were the militants killed?"
+                    }
+                ]
+            },
+            {
+                "road_ied_12-E6": [
+                    {
+                        "answer": "Taliban militants",
+                        "question": "Who were the militants that were killed?"
+                    },
+                    {
+                        "answer": "In Afghanistan's southern Kandahar province",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Seven militants",
+                        "question": "How many militants were killed in total?"
+                    },
+                    {
+                        "answer": "The device detonated accidentally, killing them on the spot.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "The vehicle they were traveling touched off an IED, setting off an explosion.",
+                        "question": "What caused the explosion that killed the four militants in Shah Wali Kot district?"
+                    }
+                ]
+            },
+            {
+                "road_ied_12-E7": [
+                    {
+                        "answer": "Seven Taliban militants.",
+                        "question": "Wh* was killed in the blasts in Afghanistan?"
+                    }
+                ]
+            }
+        ]
+    },
+    "scenario_en_85": {
+        "events": [
+            {
+                "scenario_en_85-E2": [
+                    {
+                        "answer": "These people somehow figured out a way to <trigger id='trigger-0'>commit</trigger> fraud in an election where they were running unopposed. ",
+                        "question": "Who committed fraud in the election?"
+                    },
+                    {
+                        "answer": "These people",
+                        "question": "How did these people commit fraud?"
+                    },
+                    {
+                        "answer": "Somehow figured out a way to commit fraud",
+                        "question": "Did the election have any opposition?"
+                    }
+                ]
+            },
+            {
+                "scenario_en_85-E1": [
+                    {
+                        "answer": "\"These people somehow figured out a way to commit fraud in an election where they were running unopposed.\" ",
+                        "question": "What did these people figure out a way to do in the election?"
+                    },
+                    {
+                        "answer": "\"These people somehow figured out a way to commit fraud in an election where they were running unopposed.\" ",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"These people somehow figured out a way to commit fraud in an election where they were running unopposed.\" ",
+                        "question": "In which type of election did these people commit fraud?"
+                    },
+                    {
+                        "answer": "\"These people somehow figured out a way to commit fraud in an election where they were running unopposed.\" ",
+                        "question": ""
+                    },
+                    {
+                        "answer": "\"These people somehow figured out a way to commit fraud in an election where they were running unopposed.\"",
+                        "question": "Where did these people commit fraud in the election?"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_drone_strikes_2_news_8": {
+        "events": [
+            {
+                "wiki_drone_strikes_2_news_8-E1": [
+                    {
+                        "answer": "British soil",
+                        "question": "Where are the terrorists planning to launch attacks?"
+                    },
+                    {
+                        "answer": "Hobbyists",
+                        "question": "Who else may use small drones to cause a nuisance?"
+                    },
+                    {
+                        "answer": "Hazardous chemicals, radioactive material or grenades",
+                        "question": "What could be carried by commercially available UAVs in Western cities?"
+                    },
+                    {
+                        "answer": "Bluunt force",
+                        "question": "According to James Rogers, what tactic may not be the most effective way to counter small drones?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E2": [
+                    {
+                        "answer": "\"There are loads of different ways to bring down a drone.\"",
+                        "question": "What are the different ways to bring down a drone?"
+                    },
+                    {
+                        "answer": "\"James Rogers...predicted 'non-kinetic options' would ultimately prove more effective than 'blunt force' tactics.\"",
+                        "question": "Are \"blunt force\" tactics effective in bringing down a drone?"
+                    },
+                    {
+                        "answer": "\"If you shoot it down, well, what if it\u2019s rigged as an improvised explosive device?\"",
+                        "question": "What if a drone is rigged as an improvised explosive device?"
+                    },
+                    {
+                        "answer": "\"US security services reportedly believe commercially available UAVs could in future be used by terrorists more widely to carry hazardous chemicals, radioactive material or grenades in Western cities.\"",
+                        "question": "How are commercially available UAVs believed to be used by terrorists in the future?"
+                    },
+                    {
+                        "answer": "\"Dutch and French police have reportedly trained several different species of eagle to catch drones in their talons.\"",
+                        "question": "What is the purpose of training eagles by Dutch and French police?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E3": [
+                    {
+                        "answer": "non-kinetic options",
+                        "question": "What is predicted to be more effective than blunt force tactics?"
+                    },
+                    {
+                        "answer": "bring",
+                        "question": "What verb did James Rogers mention as one of the options to counter drones?"
+                    },
+                    {
+                        "answer": "counter",
+                        "question": "What does James Rogers refer to when discussing the best way to counter small drones?"
+                    },
+                    {
+                        "answer": "shoot it down",
+                        "question": "What is the concern with shooting down a drone?"
+                    },
+                    {
+                        "answer": "carry",
+                        "question": "What verb can be used to describe how hazardous chemicals, radioactive material, or grenades can be transported by commercially available UAVs?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E4": [
+                    {
+                        "answer": "They will be flown in exercises designed to simulate a real-life pursuit of a terrorist drone.",
+                        "question": "What are the anti-drone unmanned aerial vehicles (UAVs) being used for?"
+                    },
+                    {
+                        "answer": "Police and the military are believed to be concerned.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "Capturing drones using swarms of net-casting UAVs working in tandem is one option being considered.",
+                        "question": "What is one option being considered by defense chiefs to capture drones?"
+                    },
+                    {
+                        "answer": "Developing radio frequency denial systems to create a forcefield-type wall around government sensitive areas could also form part of the longer-term strategy.",
+                        "question": ""
+                    },
+                    {
+                        "answer": "James Rogers suggests that \"non-kinetic options\" would ultimately prove more effective than \"blunt force\" tactics.",
+                        "question": "What method does James Rogers suggest as an effective way to counter small drones?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E5": [
+                    {
+                        "answer": "reconnaissance and drop bombs",
+                        "question": "What were the drones used to carry?"
+                    },
+                    {
+                        "answer": "hazardous chemicals, radioactive material or grenades",
+                        "question": "What could commercially available UAVs potentially carry in the future?"
+                    },
+                    {
+                        "answer": "to carry drugs and mobile phones into prisons, over borders, and across the Straits of Gibraltar from Africa to Europe",
+                        "question": "How have criminals made use of drones?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E6": [
+                    {
+                        "answer": "It came within 130ft of colliding.",
+                        "question": "What nearly happened between an RAF Chinook helicopter and a drone?"
+                    },
+                    {
+                        "answer": "130ft.",
+                        "question": "How close did the RAF Chinook helicopter come to colliding with a drone?"
+                    },
+                    {
+                        "answer": "The person controlling the drone was never tracked down.",
+                        "question": "How did the RAF Chinook helicopter come close to colliding with a drone?"
+                    },
+                    {
+                        "answer": "130ft.",
+                        "question": "What was the distance between the RAF Chinook helicopter and the drone when they almost collided?"
+                    },
+                    {
+                        "answer": "The person controlling the drone was never tracked down.",
+                        "question": "How was the incident between the RAF Chinook helicopter and the drone resolved?"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E7": [
+                    {
+                        "answer": "Hazardous chemicals, radioactive material or grenades",
+                        "question": "What can drones potentially carry?"
+                    },
+                    {
+                        "answer": "ISIL terror group",
+                        "question": "Which group has already used drones to carry out reconnaissance and drop bombs?"
+                    },
+                    {
+                        "answer": "Terrorists",
+                        "question": "Who might modify small drones to launch attacks on British soil?"
+                    },
+                    {
+                        "answer": "Drugs and mobile phones",
+                        "question": "What have criminals used drones to carry into prisons?"
+                    }
+                ]
+            }
+        ]
+    }
+}

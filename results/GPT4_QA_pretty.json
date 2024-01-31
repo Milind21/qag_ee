@@ -1,0 +1,1753 @@
+{
+    "scenario_en_kairos_68": {
+        "events": [
+            {
+                "scenario_en_kairos_68-E1": [
+                    {
+                        "question": "What event happened?",
+                        "answer": "bombing"
+                    },
+                    {
+                        "question": "Who did the bombing?",
+                        "answer": "the speaker and his brother"
+                    },
+                    {
+                        "question": "When did the bombing happen?",
+                        "answer": "immediately after the speaker did it"
+                    },
+                    {
+                        "question": "What did the speaker do after the bombing?",
+                        "answer": "apologized to the victims and survivors"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_drone_strikes_0_news_1": {
+        "events": [
+            {
+                "wiki_drone_strikes_0_news_1-E1": [
+                    {
+                        "question": "What is the trigger word?",
+                        "answer": "strikes"
+                    },
+                    {
+                        "question": "Who ordered more drone strikes than Bush?",
+                        "answer": "Obama"
+                    },
+                    {
+                        "question": "When did the pace of attacks accelerate?",
+                        "answer": "second half of 2008"
+                    },
+                    {
+                        "question": "Where did the 54 strikes in 2009 take place?",
+                        "answer": "Pakistan"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E2": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E3": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E4": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E5": [
+                    {
+                        "question": "Who was killed?",
+                        "answer": "civilians"
+                    },
+                    {
+                        "question": "How many civilians were killed according to the US?",
+                        "answer": "between 64 and 116"
+                    },
+                    {
+                        "question": "How many civilians were killed according to the Bureau?",
+                        "answer": "380 to 801"
+                    },
+                    {
+                        "question": "What is the contrast between the US's estimate and the Bureau's estimate?",
+                        "answer": "The Bureau's estimate was six times higher than the US's estimate."
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E6": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E7": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E8": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E9": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E10": [
+                    {
+                        "question": "What is the trigger word?",
+                        "answer": "deaths"
+                    },
+                    {
+                        "question": "Who died?",
+                        "answer": "civilian"
+                    },
+                    {
+                        "question": "How many civilian deaths were recorded by the Bureau?",
+                        "answer": "65 to 105"
+                    },
+                    {
+                        "question": "When did the Bureau start collecting data on Afghanistan?",
+                        "answer": "2015"
+                    },
+                    {
+                        "question": "How many weapons were dropped in 2016?",
+                        "answer": "1,337"
+                    },
+                    {
+                        "question": "Who reported the Afghan civilian casualties?",
+                        "answer": "United Nations (UN)"
+                    },
+                    {
+                        "question": "Where were the drone operations based during Obama's first term?",
+                        "answer": "Pakistan"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E11": [
+                    {
+                        "question": "What is the trigger word?",
+                        "answer": "attacks"
+                    },
+                    {
+                        "question": "When did the pace of attacks accelerate?",
+                        "answer": "in the second half of 2008"
+                    },
+                    {
+                        "question": "Who ordered more drone strikes than Bush?",
+                        "answer": "Obama"
+                    },
+                    {
+                        "question": "How many drone strikes did Obama order in 2009?",
+                        "answer": "54"
+                    },
+                    {
+                        "question": "Where did the 54 strikes in 2009 take place?",
+                        "answer": "Pakistan"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E12": [
+                    {
+                        "question": "What is happening to Afghanistan?",
+                        "answer": "frequent US bombardment"
+                    },
+                    {
+                        "question": "How many weapons were dropped in Afghanistan in 2016?",
+                        "answer": "1,337"
+                    },
+                    {
+                        "question": "When did Obama withdraw the majority of his troops from Afghanistan?",
+                        "answer": "at the end of 2014"
+                    },
+                    {
+                        "question": "Where is the unreported war happening?",
+                        "answer": "Afghanistan"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E13": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E14": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E15": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E16": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E17": []
+            },
+            {
+                "wiki_drone_strikes_0_news_1-E18": []
+            }
+        ]
+    },
+    "wiki_ied_bombings_10": {
+        "events": [
+            {
+                "wiki_ied_bombings_10-E1": [
+                    {
+                        "question": "Who exploded a bomb in Oxford Street?",
+                        "answer": "the same IRA unit"
+                    },
+                    {
+                        "question": "What was exploded?",
+                        "answer": "a bomb"
+                    },
+                    {
+                        "question": "When did the explosion happen?",
+                        "answer": "the next day after the first attack"
+                    },
+                    {
+                        "question": "Where did the explosion happen?",
+                        "answer": "Oxford Street"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E2": [
+                    {
+                        "question": "Who was injured?",
+                        "answer": "hundreds of people"
+                    },
+                    {
+                        "question": "What caused the injuries?",
+                        "answer": "bombings and shootings"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E3": [
+                    {
+                        "question": "What kind of attacks were carried out?",
+                        "answer": "bomb and gun attacks"
+                    },
+                    {
+                        "question": "Who carried out the attacks?",
+                        "answer": "the IRA active service unit (ASU) later dubbed the Balcombe Street Gang"
+                    },
+                    {
+                        "question": "Where were the attacks carried out?",
+                        "answer": "in Southern England, mostly in and around London"
+                    },
+                    {
+                        "question": "When was the last previous attack before the bombing?",
+                        "answer": "Dec. 22, 1974"
+                    },
+                    {
+                        "question": "What was the target of the assassination attempt?",
+                        "answer": "former Prime Minister Edward Heath"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E4": []
+            },
+            {
+                "wiki_ied_bombings_10-E5": [
+                    {
+                        "question": "Who was injured?",
+                        "answer": "several people"
+                    },
+                    {
+                        "question": "What caused the injuries?",
+                        "answer": "bomb explosion"
+                    },
+                    {
+                        "question": "Where did the bombing occur?",
+                        "answer": "Oxford Street"
+                    },
+                    {
+                        "question": "When did the bombing occur?",
+                        "answer": "the day after the attack on the pub"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E6": []
+            },
+            {
+                "wiki_ied_bombings_10-E7": []
+            },
+            {
+                "wiki_ied_bombings_10-E8": [
+                    {
+                        "question": "What happened?",
+                        "answer": "The bomb exploded."
+                    },
+                    {
+                        "question": "When did the explosion occur?",
+                        "answer": "at 9:20"
+                    },
+                    {
+                        "question": "Who was injured?",
+                        "answer": "23 civilians and 10 off-duty soldiers"
+                    },
+                    {
+                        "question": "What was the extent of the injuries?",
+                        "answer": "Some of the injuries were very serious, with at least three soldiers losing limbs."
+                    },
+                    {
+                        "question": "What did the explosion do to the pub?",
+                        "answer": "The blast blew the roof off the pub."
+                    },
+                    {
+                        "question": "What did the bombing mark?",
+                        "answer": "The start of a renewed bombing campaign (Phase Two) in England and the end of the truce with the British Government."
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E9": [
+                    {
+                        "question": "What caused the deaths?",
+                        "answer": "bombings and shootings"
+                    },
+                    {
+                        "question": "How many people died?",
+                        "answer": "nearly 20"
+                    },
+                    {
+                        "question": "When did the deaths occur?",
+                        "answer": "during the cell's campaign, which lasted from October 1974 to December 1975"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E10": []
+            },
+            {
+                "wiki_ied_bombings_10-E11": [
+                    {
+                        "question": "What was damaged?",
+                        "answer": "property"
+                    },
+                    {
+                        "question": "How much damage was caused?",
+                        "answer": "millions of pounds worth of damage"
+                    },
+                    {
+                        "question": "Who caused the damage?",
+                        "answer": "Provisional Irish Republican Army"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E12": [
+                    {
+                        "question": "Who lost their legs?",
+                        "answer": "Two off-duty soldiers"
+                    },
+                    {
+                        "question": "What happened to the soldiers?",
+                        "answer": "They lost their legs"
+                    },
+                    {
+                        "question": "When did the bombing occur?",
+                        "answer": "27 August 1975"
+                    },
+                    {
+                        "question": "Where did the bombing occur?",
+                        "answer": "Caterham Arms public house in Caterham, Surrey, England"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E13": [
+                    {
+                        "question": "What was the Balcombe Street Gang doing before the ceasefire?",
+                        "answer": "carrying out bomb and gun attacks in Southern England"
+                    },
+                    {
+                        "question": "Who was the target of the previous assassination attempt?",
+                        "answer": "former Prime Minister Edward Heath"
+                    },
+                    {
+                        "question": "When was the assassination attempt on Edward Heath?",
+                        "answer": "Dec. 22, 1974"
+                    },
+                    {
+                        "question": "Where was the bomb planted?",
+                        "answer": "Caterham Arms public house in Caterham, Surrey"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E14": [
+                    {
+                        "question": "Who threw the bomb?",
+                        "answer": "the attackers"
+                    },
+                    {
+                        "question": "What did the attackers throw?",
+                        "answer": "a bomb"
+                    },
+                    {
+                        "question": "When was the bomb thrown?",
+                        "answer": "Dec. 22, 1974"
+                    },
+                    {
+                        "question": "Where was the bomb thrown?",
+                        "answer": "into Edward Heath's bedroom window"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E15": [
+                    {
+                        "question": "Who was injured?",
+                        "answer": "23 civilians and 10 off-duty soldiers"
+                    },
+                    {
+                        "question": "What caused the injuries?",
+                        "answer": "bomb explosion"
+                    },
+                    {
+                        "question": "How serious were some of the injuries?",
+                        "answer": "\"Some of the injuries were very serious, with at least three soldiers losing limbs.\""
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E16": [
+                    {
+                        "question": "Who lost limbs?",
+                        "answer": "at least three soldiers"
+                    },
+                    {
+                        "question": "What did the bomb do?",
+                        "answer": "blew the roof off the pub"
+                    },
+                    {
+                        "question": "When did the bomb explode?",
+                        "answer": "at 9:20"
+                    },
+                    {
+                        "question": "Where did the bombing take place?",
+                        "answer": "house in Caterham, Surrey/pub"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E17": [
+                    {
+                        "question": "Who planted the bomb?",
+                        "answer": "The Balcombe Street Gang"
+                    },
+                    {
+                        "question": "What was planted?",
+                        "answer": "a time bomb"
+                    },
+                    {
+                        "question": "Where was the bomb planted?",
+                        "answer": "in the Caterham Arms public house in Caterham, Surrey"
+                    },
+                    {
+                        "question": "When did the bomb explode?",
+                        "answer": "at 9:20"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E18": [
+                    {
+                        "question": "Who is monitoring the ceasefire?",
+                        "answer": "\"incident centres\""
+                    },
+                    {
+                        "question": "What is being monitored?",
+                        "answer": "the ceasefire and the activity of the security forces"
+                    },
+                    {
+                        "question": "When was the ceasefire agreed upon?",
+                        "answer": "February 1975"
+                    },
+                    {
+                        "question": "Where were the \"incident centres\" established?",
+                        "answer": "Irish nationalist areas in Northern Ireland"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E19": [
+                    {
+                        "question": "Who placed the bomb?",
+                        "answer": "The Balcombe Street Gang/IRA unit"
+                    },
+                    {
+                        "question": "What was placed?",
+                        "answer": "a 7lb bomb"
+                    },
+                    {
+                        "question": "Where was the bomb placed?",
+                        "answer": "in the Caterham Arms public house in Caterham, Surrey"
+                    },
+                    {
+                        "question": "When did the bomb explode?",
+                        "answer": "at 9:20"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E20": [
+                    {
+                        "question": "Who was in charge of the investigation?",
+                        "answer": "One of the police officers"
+                    },
+                    {
+                        "question": "What was the police officer in charge of?",
+                        "answer": "the investigation into the bombing"
+                    },
+                    {
+                        "question": "What did the police officer say about the bombing?",
+                        "answer": "described it as a \"carbon copy\" of the Guildford pub bombings"
+                    },
+                    {
+                        "question": "When did the bombing occur?",
+                        "answer": "The passage does not provide a specific date."
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E21": [
+                    {
+                        "question": "Who is serving the sentences?",
+                        "answer": "four people"
+                    },
+                    {
+                        "question": "What kind of sentences are they serving?",
+                        "answer": "their sentences"
+                    },
+                    {
+                        "question": "When were the sentences given?",
+                        "answer": "October 1974"
+                    },
+                    {
+                        "question": "Where were the sentences given?",
+                        "answer": "not specified"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E22": [
+                    {
+                        "question": "Who was caught?",
+                        "answer": "the cell"
+                    },
+                    {
+                        "question": "When were they caught?",
+                        "answer": "December 1975"
+                    }
+                ]
+            },
+            {
+                "wiki_ied_bombings_10-E23": [
+                    {
+                        "question": "Who agreed to a truce and ceasefire?",
+                        "answer": "the Provisional Irish Republican Army"
+                    }
+                ]
+            }
+        ]
+    },
+    "backpack_ied_20": {
+        "events": [
+            {
+                "backpack_ied_20-E1": [
+                    {
+                        "question": "What is the event trigger?",
+                        "answer": "bombing"
+                    },
+                    {
+                        "question": "Where did the bombing take place?",
+                        "answer": "Boston Marathon finish line in Copley Square"
+                    },
+                    {
+                        "question": "What is the concern of law enforcement and intelligence officials?",
+                        "answer": "that the bombing could mark a new chapter in the struggle to secure the American homeland"
+                    },
+                    {
+                        "question": "What were the bombs packed into?",
+                        "answer": "pressure cookers"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E2": [
+                    {
+                        "question": "What has been used for bombs in multiple attacks in Afghanistan, Pakistan, India, and Nepal?",
+                        "answer": "pressure cookers"
+                    },
+                    {
+                        "question": "What were the bombs in the Boston marathon attack packed with?",
+                        "answer": "BB's, nails, and other projectiles"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E3": [
+                    {
+                        "question": "Who claimed responsibility for the attack?",
+                        "answer": "No group/Pakistani Taliban"
+                    },
+                    {
+                        "question": "What type of attack was it?",
+                        "answer": "improvised explosive device"
+                    },
+                    {
+                        "question": "When did the White House establish a new task force?",
+                        "answer": "late February"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E4": []
+            },
+            {
+                "backpack_ied_20-E5": []
+            },
+            {
+                "backpack_ied_20-E6": [
+                    {
+                        "question": "Who was killed?",
+                        "answer": "three people"
+                    },
+                    {
+                        "question": "How many people were injured?",
+                        "answer": "more than 150"
+                    },
+                    {
+                        "question": "What caused the deaths and injuries?",
+                        "answer": "twin bombings"
+                    },
+                    {
+                        "question": "Where did the bombings occur?",
+                        "answer": "Boylston Street"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E7": [
+                    {
+                        "question": "Who was injured?",
+                        "answer": "more than 150 people"
+                    },
+                    {
+                        "question": "What caused the injuries?",
+                        "answer": "twin bombings"
+                    },
+                    {
+                        "question": "When did the bombings occur?",
+                        "answer": "near the Boston marathon finish line"
+                    },
+                    {
+                        "question": "Where did the bombings occur?",
+                        "answer": "Boylston Street"
+                    }
+                ]
+            },
+            {
+                "backpack_ied_20-E8": []
+            },
+            {
+                "backpack_ied_20-E9": [
+                    {
+                        "question": "Who said something?",
+                        "answer": "The Pakistani Taliban"
+                    },
+                    {
+                        "question": "What did the Pakistani Taliban say?",
+                        "answer": "it was not responsible for the attack"
+                    },
+                    {
+                        "question": "When did the White House establish a new task force?",
+                        "answer": "late February"
+                    },
+                    {
+                        "question": "Where was the attempted car bombing?",
+                        "answer": "New York's Times Square"
+                    }
+                ]
+            }
+        ]
+    },
+    "scenario_en_kairos_16": {
+        "events": [
+            {
+                "scenario_en_kairos_16-E1": [
+                    {
+                        "question": "Who is charged with masterminding the bombings?",
+                        "answer": "Osama bin Laden"
+                    },
+                    {
+                        "question": "What was bombed in 1998?",
+                        "answer": "two U.S. embassies in East Africa"
+                    },
+                    {
+                        "question": "Where was the USS Cole attacked?",
+                        "answer": "Yemeni port of Aden"
+                    },
+                    {
+                        "question": "When did the Sept. 11 attacks occur?",
+                        "answer": "Sept. 11, 2001"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_16-E2": [
+                    {
+                        "question": "What was attacked in October 2000?",
+                        "answer": "USS Cole"
+                    },
+                    {
+                        "question": "Who was responsible for the attack on the USS Cole?",
+                        "answer": "Osama bin Laden"
+                    },
+                    {
+                        "question": "What other attacks is Osama bin Laden believed to have had a role in?",
+                        "answer": "1998 bombings of two U.S. embassies in East Africa, Sept. 11, 2001 destruction of the World Trade Center and the bombing of the Pentagon."
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_16-E3": [
+                    {
+                        "question": "Who is charged with masterminding the 1998 embassy bombings?",
+                        "answer": "Osama bin Laden"
+                    },
+                    {
+                        "question": "What was destroyed on Sept. 11, 2001?",
+                        "answer": "World Trade Center"
+                    },
+                    {
+                        "question": "What was bombed in the Pentagon?",
+                        "answer": "Pentagon"
+                    },
+                    {
+                        "question": "When did the USS Cole attack happen?",
+                        "answer": "October 2000"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_16-E4": [
+                    {
+                        "question": "Who is charged with masterminding the 1998 bombings of two U.S. embassies in East Africa?",
+                        "answer": "Osama bin Laden"
+                    },
+                    {
+                        "question": "What was bombed in addition to the World Trade Center on Sept. 11, 2001?",
+                        "answer": "the Pentagon"
+                    },
+                    {
+                        "question": "When did the bombing of the Pentagon occur?",
+                        "answer": "Sept. 11, 2001"
+                    },
+                    {
+                        "question": "Where did the 1998 bombings occur?",
+                        "answer": "East Africa"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_mass_car_bombings_7_news_2": {
+        "events": [
+            {
+                "wiki_mass_car_bombings_7_news_2-E1": [
+                    {
+                        "question": "What happened?",
+                        "answer": "Attacks occurred."
+                    },
+                    {
+                        "question": "Who was attacked?",
+                        "answer": "military base/Iraqi soldiers, checkpoint, Shiite mosque"
+                    },
+                    {
+                        "question": "How many people were killed in the attack on the military base?",
+                        "answer": "at least 15 Iraqi soldiers"
+                    },
+                    {
+                        "question": "How many people were killed in the checkpoint attack?",
+                        "answer": "three people"
+                    },
+                    {
+                        "question": "How many people were wounded in the Tarmiyah car bomb?",
+                        "answer": "nine people"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E2": [
+                    {
+                        "question": "Who was killed?",
+                        "answer": "at least 12 people"
+                    },
+                    {
+                        "question": "What caused the deaths?",
+                        "answer": "car bomb"
+                    },
+                    {
+                        "question": "Where did the attack happen?",
+                        "answer": "outside a government office in Sadr City, Baghdad"
+                    },
+                    {
+                        "question": "When did the attack happen?",
+                        "answer": "9:30 am (0630 GMT)"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E3": [
+                    {
+                        "question": "How many people were wounded in the attacks?",
+                        "answer": "at least 214 people"
+                    },
+                    {
+                        "question": "How many attacks were launched?",
+                        "answer": "27 different attacks"
+                    },
+                    {
+                        "question": "Where were the attacks launched?",
+                        "answer": "18 cities"
+                    },
+                    {
+                        "question": "When did the attacks occur?",
+                        "answer": "before the start of Ramadan"
+                    },
+                    {
+                        "question": "Who was targeted in the suicide attack?",
+                        "answer": "emergency responders"
+                    },
+                    {
+                        "question": "How many people were killed in the Taji attack?",
+                        "answer": "at least 42 people"
+                    },
+                    {
+                        "question": "How many people were wounded in the Taji attack?",
+                        "answer": "40 wounded"
+                    },
+                    {
+                        "question": "What type of bombs were used in the Taji attack?",
+                        "answer": "roadside bombs and a car bomb"
+                    },
+                    {
+                        "question": "Who concluded that the vehicle was a car bomb?",
+                        "answer": "police inspectors"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E4": []
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E5": [
+                    {
+                        "question": "Who witnessed the deaths?",
+                        "answer": "Abu Mohammed"
+                    },
+                    {
+                        "question": "Who died?",
+                        "answer": "an elderly woman carrying a newborn baby and a policeman"
+                    },
+                    {
+                        "question": "What caused the deaths?",
+                        "answer": "a bomb"
+                    },
+                    {
+                        "question": "Where did the deaths occur?",
+                        "answer": "Taji"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E6": [
+                    {
+                        "question": "What was destroyed?",
+                        "answer": "a row of houses"
+                    },
+                    {
+                        "question": "Who witnessed the destruction?",
+                        "answer": "Abu Mohammed"
+                    },
+                    {
+                        "question": "How were the houses destroyed?",
+                        "answer": "by a bomb"
+                    },
+                    {
+                        "question": "How many people were killed in the attack?",
+                        "answer": "at least 12 people"
+                    },
+                    {
+                        "question": "Where did the car bomb explode?",
+                        "answer": "outside a government office in Sadr City"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E7": []
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E8": [
+                    {
+                        "question": "What happened in Baghdad?",
+                        "answer": "Two explosions"
+                    },
+                    {
+                        "question": "When did the attack happen?",
+                        "answer": "9:30 am (0630 GMT)"
+                    },
+                    {
+                        "question": "Where did the attack happen?",
+                        "answer": "Baghdad neighborhoods of Husseiniyah and Yarmouk"
+                    },
+                    {
+                        "question": "How many people were killed in the Baghdad attacks?",
+                        "answer": "at least four people"
+                    },
+                    {
+                        "question": "How many people were wounded in the Baghdad attacks?",
+                        "answer": "24 others wounded"
+                    },
+                    {
+                        "question": "What was the cause of the explosion in Tarmiyah?",
+                        "answer": "car bomb"
+                    },
+                    {
+                        "question": "How many people were hurt in the Tarmiyah explosion?",
+                        "answer": "nine people"
+                    },
+                    {
+                        "question": "How many people were killed in Diyala province?",
+                        "answer": "11 people"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E9": [
+                    {
+                        "question": "What happened in Baquba?",
+                        "answer": "Insurgents launched attacks."
+                    },
+                    {
+                        "question": "Where was the military base attacked?",
+                        "answer": "near the town of Dhuluiyah"
+                    },
+                    {
+                        "question": "How many Iraqi soldiers were killed in the attack?",
+                        "answer": "at least 15"
+                    },
+                    {
+                        "question": "What happened near the Shiite mosque?",
+                        "answer": "a car bomb exploded"
+                    },
+                    {
+                        "question": "How many people were killed in the bomb blasts?",
+                        "answer": "seven"
+                    },
+                    {
+                        "question": "Where did the bomb blasts occur?",
+                        "answer": "Kirkuk city and the eponymous province's towns of Dibis and Tuz Khurmatu"
+                    },
+                    {
+                        "question": "How many people were killed in Mosul and Baaj?",
+                        "answer": "nine"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E10": []
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E11": [
+                    {
+                        "question": "Who was killed in the attack on the military base?",
+                        "answer": "at least 15 Iraqi soldiers"
+                    },
+                    {
+                        "question": "What was the trigger word?",
+                        "answer": "killing"
+                    },
+                    {
+                        "question": "How many people were killed in the checkpoint shooting and car bomb near a Shiite mosque?",
+                        "answer": "three people"
+                    },
+                    {
+                        "question": "Where did the car bomb in Tarmiyah explode?",
+                        "answer": "in the town of Tarmiyah, just north of Baghdad"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E12": [
+                    {
+                        "question": "Who was wounded?",
+                        "answer": "two Iraqi soldiers"
+                    },
+                    {
+                        "question": "How were the soldiers wounded?",
+                        "answer": "in an attack"
+                    },
+                    {
+                        "question": "Where did the attack happen?",
+                        "answer": "near the town of Dhuluiyah"
+                    },
+                    {
+                        "question": "How many people were wounded in Diyala province?",
+                        "answer": "40"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E13": [
+                    {
+                        "question": "What happened in Diyala province?",
+                        "answer": "bomb blasts killed 11 people and left 40 others wounded"
+                    },
+                    {
+                        "question": "Where is the main hospital located?",
+                        "answer": "provincial capital Baquba"
+                    },
+                    {
+                        "question": "Who attacked the military base near Dhuluiyah?",
+                        "answer": "Insurgents"
+                    },
+                    {
+                        "question": "How many Iraqi soldiers were killed in the attack?",
+                        "answer": "at least 15"
+                    },
+                    {
+                        "question": "What happened at the checkpoint in Diyala province?",
+                        "answer": "a shooting left three people dead and six wounded"
+                    },
+                    {
+                        "question": "What was the target of the car bomb in Diyala province?",
+                        "answer": "a Shiite mosque"
+                    },
+                    {
+                        "question": "How many people were killed in the bomb blasts in Kirkuk city and the eponymous province's towns of Dibis and Tuz Khurmatu?",
+                        "answer": "seven"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E14": []
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E15": [
+                    {
+                        "question": "What type of attack was the roadside incident in Mosul?",
+                        "answer": "blast"
+                    },
+                    {
+                        "question": "Where did the roadside incident in Mosul occur?",
+                        "answer": "in the main northern city of Mosul"
+                    },
+                    {
+                        "question": "How many people were killed in the Diwaniyah market attack?",
+                        "answer": "three people"
+                    },
+                    {
+                        "question": "Who reported the attacks in Mosul and Baaj?",
+                        "answer": "Iraqi army First Lieutenant Waad Mohammed and police Lieutenant Mohammed al-Juburi"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E16": [
+                    {
+                        "question": "How many people were killed in the attacks in Kirkuk city and the eponymous province's towns of Dibis and Tuz Khurmatu?",
+                        "answer": "Seven people"
+                    },
+                    {
+                        "question": "How many people were killed in the attacks in Mosul and the nearby town of Baaj?",
+                        "answer": "Nine people"
+                    },
+                    {
+                        "question": "How many people were killed in the roadside bomb at a market in the center of the town of Diwaniyah, south of Baghdad?",
+                        "answer": "Three people"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E17": [
+                    {
+                        "question": "What exploded?",
+                        "answer": "car bomb"
+                    },
+                    {
+                        "question": "Where did the explosion occur?",
+                        "answer": "Heet"
+                    },
+                    {
+                        "question": "Who was killed in the explosion?",
+                        "answer": "one soldier"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_7_news_2-E18": [
+                    {
+                        "question": "What happened in Diwaniyah?",
+                        "answer": "Bombings killed three people and left 25 hurt."
+                    },
+                    {
+                        "question": "What happened in Heet?",
+                        "answer": "A car bomb exploded near an army patrol, killing one soldier and wounding 10 others."
+                    },
+                    {
+                        "question": "What happened the day before the attacks mentioned in the passage?",
+                        "answer": "A spate of bombings across Iraq killed at least 17 people and wounded nearly 100 others."
+                    },
+                    {
+                        "question": "When was the highest toll of violence before Monday's attacks?",
+                        "answer": "May 10, 2010"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_mass_car_bombings_0_news_9": {
+        "events": [
+            {
+                "wiki_mass_car_bombings_0_news_9-E1": [
+                    {
+                        "question": "Who made the request?",
+                        "answer": "Colombia"
+                    },
+                    {
+                        "question": "What was the request?",
+                        "answer": "to extradite the rebels affiliated with National Liberation Army (ELN)"
+                    },
+                    {
+                        "question": "Who sidestepped the request?",
+                        "answer": "Cuba"
+                    },
+                    {
+                        "question": "Why did Colombia make the request?",
+                        "answer": "after a deadly car bombing in Bogota was blamed on the group"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E2": [
+                    {
+                        "question": "Who sidesteps Colombia's request?",
+                        "answer": "Cuba"
+                    },
+                    {
+                        "question": "What did Colombia request from Cuba?",
+                        "answer": "to extradite the rebels affiliated with National Liberation Army (ELN)"
+                    },
+                    {
+                        "question": "Who is blamed for the car bombing?",
+                        "answer": "the rebels affiliated with National Liberation Army (ELN)"
+                    },
+                    {
+                        "question": "When did the car bombing happen?",
+                        "answer": "Thursday"
+                    },
+                    {
+                        "question": "Where did the car bombing happen?",
+                        "answer": "Bogota"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E3": [
+                    {
+                        "question": "Who was blamed for the bombing?",
+                        "answer": "the leftist ELN"
+                    },
+                    {
+                        "question": "What was bombed?",
+                        "answer": "a police academy"
+                    },
+                    {
+                        "question": "Where did the bombing occur?",
+                        "answer": "Bogota"
+                    },
+                    {
+                        "question": "How many people were killed in the bombing?",
+                        "answer": "20 people"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E4": [
+                    {
+                        "question": "Who urged Cuba to hand over the rebels?",
+                        "answer": "Conservative President Ivan Duque"
+                    },
+                    {
+                        "question": "Who was asked to be handed over?",
+                        "answer": "the rebels affiliated with National Liberation Army (ELN)"
+                    },
+                    {
+                        "question": "Where were the rebels when they were asked to be handed over?",
+                        "answer": "Havana"
+                    },
+                    {
+                        "question": "Why were the rebels asked to be handed over?",
+                        "answer": "after a deadly car bombing in Bogota was blamed on the group"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E5": [
+                    {
+                        "question": "Who was killed?",
+                        "answer": "20 people as well as the attacker"
+                    },
+                    {
+                        "question": "What caused the deaths?",
+                        "answer": "bombing"
+                    },
+                    {
+                        "question": "When did the bombing occur?",
+                        "answer": "Friday"
+                    },
+                    {
+                        "question": "Who was blamed for the bombing?",
+                        "answer": "the leftist ELN"
+                    },
+                    {
+                        "question": "Where did the bombing occur?",
+                        "answer": "Bogota"
+                    },
+                    {
+                        "question": "Why did Duque reinstate arrest warrants for 10 ELN members?",
+                        "answer": "they are part of the group's delegation to the Cuba talks and were blamed for the bombing"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E6": []
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E7": [
+                    {
+                        "question": "Who asked Cuba to capture ELN rebel commander Nicolas Rodriguez?",
+                        "answer": "Colombia"
+                    },
+                    {
+                        "question": "Who is Nicolas Rodriguez?",
+                        "answer": "ELN rebel commander"
+                    },
+                    {
+                        "question": "What did Colombia ask Cuba to do?",
+                        "answer": "capture ELN rebel commander Nicolas Rodriguez and provide information about the presence of other commanders in the Cuban territory"
+                    },
+                    {
+                        "question": "When did Colombia ask Cuba to capture Nicolas Rodriguez?",
+                        "answer": "In November"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E8": [
+                    {
+                        "question": "Who was Colombia asking Cuba to capture?",
+                        "answer": "ELN rebel commander Nicolas Rodriguez"
+                    },
+                    {
+                        "question": "When did Colombia ask Cuba to capture Nicolas Rodriguez?",
+                        "answer": "In November"
+                    },
+                    {
+                        "question": "What did Colombia ask Cuba to provide information about?",
+                        "answer": "the presence of other commanders"
+                    },
+                    {
+                        "question": "What is Interpol Red Notice?",
+                        "answer": "an international arrest warrant"
+                    }
+                ]
+            },
+            {
+                "wiki_mass_car_bombings_0_news_9-E9": [
+                    {
+                        "question": "Who is protesting?",
+                        "answer": "Colombians, including Duque"
+                    },
+                    {
+                        "question": "What are they protesting against?",
+                        "answer": "the car bombing"
+                    },
+                    {
+                        "question": "When did the car bombing happen?",
+                        "answer": "recently (not specified)"
+                    },
+                    {
+                        "question": "Where did the car bombing happen?",
+                        "answer": "Colombia"
+                    }
+                ]
+            }
+        ]
+    },
+    "wiki_drone_strikes_1_news_1": {
+        "events": [
+            {
+                "wiki_drone_strikes_1_news_1-E1": [
+                    {
+                        "question": "Who was arrested?",
+                        "answer": "Yamamoto"
+                    },
+                    {
+                        "question": "What was Yamamoto arrested for?",
+                        "answer": "flying the drone and obstructing duties at the prime minister's office"
+                    },
+                    {
+                        "question": "Why did Yamamoto fly the drone?",
+                        "answer": "to protest the government's nuclear energy policy"
+                    },
+                    {
+                        "question": "Where did the incident take place?",
+                        "answer": "Japan's political headquarters"
+                    },
+                    {
+                        "question": "When did the incident take place?",
+                        "answer": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E2": [
+                    {
+                        "question": "Who found the drone?",
+                        "answer": "The prime minister's office"
+                    },
+                    {
+                        "question": "What was found?",
+                        "answer": "The small drone"
+                    },
+                    {
+                        "question": "When was the drone found?",
+                        "answer": "Wednesday"
+                    },
+                    {
+                        "question": "Where was the drone found?",
+                        "answer": "on the roof of the prime minister's office"
+                    },
+                    {
+                        "question": "Why were fears triggered?",
+                        "answer": "The drone had traces of radiation"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E4": [
+                    {
+                        "question": "Who crashed the drone?",
+                        "answer": "an off-duty intelligence employee"
+                    },
+                    {
+                        "question": "What crashed?",
+                        "answer": "a drone"
+                    },
+                    {
+                        "question": "Where did the drone crash?",
+                        "answer": "White House grounds"
+                    },
+                    {
+                        "question": "When did the drone crash?",
+                        "answer": "January"
+                    },
+                    {
+                        "question": "Where was the drone flown from?",
+                        "answer": "Obama city in Fukui"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E5": [
+                    {
+                        "question": "What was the disaster?",
+                        "answer": "Fukushima plant disaster"
+                    },
+                    {
+                        "question": "When did the disaster occur?",
+                        "answer": "2011"
+                    },
+                    {
+                        "question": "Where did the disaster occur?",
+                        "answer": "Fukushima"
+                    },
+                    {
+                        "question": "Why did the suspect fly the drone?",
+                        "answer": "to protest the government's nuclear energy policy"
+                    },
+                    {
+                        "question": "What was the drone carrying?",
+                        "answer": "a small camera and a plastic bottle containing what police suspect was the source of radioactive cesium"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E6": []
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E7": [
+                    {
+                        "question": "Who was obstructing duties?",
+                        "answer": "Yamamoto"
+                    },
+                    {
+                        "question": "What duties were being obstructed?",
+                        "answer": "duties at the prime minister's office"
+                    },
+                    {
+                        "question": "Why was Yamamoto arrested?",
+                        "answer": "suspicion of flying the drone and obstructing duties at the prime minister's office"
+                    },
+                    {
+                        "question": "When did the incident occur?",
+                        "answer": "Wednesday"
+                    },
+                    {
+                        "question": "Where did the incident occur?",
+                        "answer": "Japan's political headquarters/prime minister's office"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_1_news_1-E8": [
+                    {
+                        "question": "Who admitted to landing the drone?",
+                        "answer": "Yasuo Yamamoto"
+                    },
+                    {
+                        "question": "What was landed on the roof of the prime minister's office?",
+                        "answer": "a drone with low-level radioactive sand"
+                    },
+                    {
+                        "question": "When did the incident occur?",
+                        "answer": "Wednesday"
+                    },
+                    {
+                        "question": "Where did Yasuo Yamamoto turn himself in?",
+                        "answer": "Fukui in western Japan"
+                    },
+                    {
+                        "question": "Why were fears triggered?",
+                        "answer": "potential terrorist attacks using unmanned aerial devices"
+                    }
+                ]
+            }
+        ]
+    },
+    "scenario_en_kairos_2": {
+        "events": [
+            {
+                "scenario_en_kairos_2-E1": [
+                    {
+                        "question": "What crime was committed?",
+                        "answer": "Murder of U.S. Nationals outside the United States"
+                    },
+                    {
+                        "question": "Who committed the murder?",
+                        "answer": "Abdullah Ahmed Abdullah"
+                    },
+                    {
+                        "question": "What was the target of the attack?",
+                        "answer": "Federal Facility"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E2": []
+            },
+            {
+                "scenario_en_kairos_2-E3": [
+                    {
+                        "question": "What was the attack on?",
+                        "answer": "a Federal Facility"
+                    },
+                    {
+                        "question": "What was the result of the attack?",
+                        "answer": "Resulting in Death"
+                    },
+                    {
+                        "question": "Who was attacked?",
+                        "answer": "U. S. Nationals"
+                    },
+                    {
+                        "question": "What was the name of the person involved in the attack?",
+                        "answer": "Abdullah Ahmed Abdullah Ali/Abu Mohamed Al-Masri/Abu Muhammad al Masri/Saleh/Abu Mariam/Abu Mohammed"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E4": [
+                    {
+                        "question": "What resulted in death?",
+                        "answer": "Attack on a Federal Facility"
+                    },
+                    {
+                        "question": "Whose death resulted from the attack?",
+                        "answer": "Not specified"
+                    },
+                    {
+                        "question": "Who was murdered?",
+                        "answer": "U.S. Nationals"
+                    },
+                    {
+                        "question": "Where did the attack take place?",
+                        "answer": "Outside the United States"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E5": [
+                    {
+                        "question": "What is the crime that Abdullah Ahmed Abdullah is accused of?",
+                        "answer": "Murder of U.S. Nationals Outside the United States; Conspiracy to Murder U.S. Nationals Outside the United States; Attack on a Federal Facility Resulting in Death; Conspiracy to Kill U.S. Nationals, to Murder, to Destroy Buildings and Property of the United States, and to Destroy the National Defense Utilities of the United States"
+                    },
+                    {
+                        "question": "Who is the target of the conspiracy to kill?",
+                        "answer": "U.S. Nationals"
+                    },
+                    {
+                        "question": "What is the objective of the conspiracy?",
+                        "answer": "to Murder, to Destroy Buildings and Property of the United States, and to Destroy the National Defense Utilities of the United States"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E6": []
+            },
+            {
+                "scenario_en_kairos_2-E7": [
+                    {
+                        "question": "What was the plan to destroy?",
+                        "answer": "to destroy buildings and property of the United States and to destroy the National Defense Utilities of the United States"
+                    },
+                    {
+                        "question": "Who was planning to destroy?",
+                        "answer": "Conspiracy to Kill U. S. Nationals, to Murder, to Destroy Buildings and Property of the United States, and to Destroy the National Defense Utilities of the United States"
+                    },
+                    {
+                        "question": "What was the name of the person who was involved in the plan?",
+                        "answer": "Abdullah Ahmed Abdullah Ali/Abdullah Ahmed Abdullah"
+                    }
+                ]
+            },
+            {
+                "scenario_en_kairos_2-E8": []
+            }
+        ]
+    },
+    "road_ied_12": {
+        "events": [
+            {
+                "road_ied_12-E1": [
+                    {
+                        "question": "Who were killed in the explosions?",
+                        "answer": "Three militants and four militants"
+                    },
+                    {
+                        "question": "How were the explosions caused?",
+                        "answer": "by an improvised explosive device (IED)"
+                    },
+                    {
+                        "question": "Where did the explosions occur?",
+                        "answer": "Afghanistan's southern Kandahar province, in Arghandab district and neighboring Shah Wali Kot district"
+                    },
+                    {
+                        "question": "Why were the militants planting IEDs?",
+                        "answer": "to target security forces"
+                    }
+                ]
+            },
+            {
+                "road_ied_12-E3": []
+            },
+            {
+                "road_ied_12-E6": [
+                    {
+                        "question": "How many Taliban militants were killed in the explosions?",
+                        "answer": "Seven"
+                    },
+                    {
+                        "question": "What caused the death of the three militants in Arghandab district?",
+                        "answer": "the device detonated accidentally"
+                    },
+                    {
+                        "question": "Where did the explosions occur?",
+                        "answer": "Afghanistan's southern Kandahar province"
+                    },
+                    {
+                        "question": "Who were the militants targeting with the IEDs?",
+                        "answer": "security forces"
+                    }
+                ]
+            },
+            {
+                "road_ied_12-E7": []
+            }
+        ]
+    },
+    "scenario_en_85": {
+        "events": [
+            {
+                "scenario_en_85-E2": [
+                    {
+                        "question": "What did the Elections Council do?",
+                        "answer": "commit fraud in an election"
+                    },
+                    {
+                        "question": "Who committed fraud in an election?",
+                        "answer": "the Elections Council"
+                    },
+                    {
+                        "question": "When did the fraud occur?",
+                        "answer": "in an election where they were running unopposed"
+                    },
+                    {
+                        "question": "Why did the author say a new Elections Council is needed?",
+                        "answer": "These people somehow figured out a way to commit fraud in an election where they were running unopposed."
+                    }
+                ]
+            },
+            {
+                "scenario_en_85-E1": []
+            }
+        ]
+    },
+    "wiki_drone_strikes_2_news_8": {
+        "events": [
+            {
+                "wiki_drone_strikes_2_news_8-E1": [
+                    {
+                        "question": "What is being tested?",
+                        "answer": "unmanned aerial vehicles (UAVs)"
+                    },
+                    {
+                        "question": "Why are they being tested?",
+                        "answer": "for counter-terrorist purposes"
+                    },
+                    {
+                        "question": "Who is concerned about terrorist drone attacks?",
+                        "answer": "Police and the military"
+                    },
+                    {
+                        "question": "What are terrorists modifying?",
+                        "answer": "small, off-the-shelf drones"
+                    },
+                    {
+                        "question": "What kind of attacks are they planning?",
+                        "answer": "attacks on British soil"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E2": [
+                    {
+                        "question": "What can the SkyWall 100 do?",
+                        "answer": "launch a net at flying objects and parachutes them to the ground."
+                    },
+                    {
+                        "question": "Who is James Rogers?",
+                        "answer": "an expert in drone warfare who is associate lecturer at the University of York."
+                    },
+                    {
+                        "question": "What does James Rogers predict?",
+                        "answer": "\u201cnon-kinetic options\u201d would ultimately prove more effective than \u201cblunt force\u201d tactics."
+                    },
+                    {
+                        "question": "What are some ways to bring down a drone?",
+                        "answer": "loads of different ways"
+                    },
+                    {
+                        "question": "Why is it important to find the most effective way to bring down a drone?",
+                        "answer": "to avoid the risk of it being rigged as an improvised explosive device."
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E3": [
+                    {
+                        "question": "What action is being taken against the drone?",
+                        "answer": "shoot it down"
+                    },
+                    {
+                        "question": "Who is concerned about the effectiveness of shooting down a drone?",
+                        "answer": "James Rogers"
+                    },
+                    {
+                        "question": "What is the concern with shooting down a drone?",
+                        "answer": "it might be rigged as an improvised explosive device"
+                    },
+                    {
+                        "question": "What is the alternative to shooting down a drone?",
+                        "answer": "non-kinetic options"
+                    },
+                    {
+                        "question": "Who is an expert in drone warfare?",
+                        "answer": "James Rogers"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E4": [
+                    {
+                        "question": "What is the debate about?",
+                        "answer": "the best way to counter these small drones"
+                    },
+                    {
+                        "question": "Who is having the debate?",
+                        "answer": "people"
+                    },
+                    {
+                        "question": "What are the drones being used for?",
+                        "answer": "reconnaissance and dropping bombs"
+                    },
+                    {
+                        "question": "Who has used drones for reconnaissance and dropping bombs?",
+                        "answer": "ISIL terror group"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E5": [
+                    {
+                        "question": "Who is carrying something?",
+                        "answer": "criminals"
+                    },
+                    {
+                        "question": "What are the criminals carrying?",
+                        "answer": "drugs and mobile phones"
+                    },
+                    {
+                        "question": "Where are the criminals carrying the items?",
+                        "answer": "into prisons, over borders, and even across the Straits of Gibraltar from Africa to Europe"
+                    },
+                    {
+                        "question": "What are Dutch and French police training eagles to do?",
+                        "answer": "catch drones in their talons"
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E6": [
+                    {
+                        "question": "What was nearly colliding with a drone?",
+                        "answer": "an RAF Chinook helicopter"
+                    },
+                    {
+                        "question": "How close did the helicopter come to colliding with the drone?",
+                        "answer": "within 130ft"
+                    },
+                    {
+                        "question": "Who was controlling the drone?",
+                        "answer": "The person controlling the drone was never tracked down."
+                    }
+                ]
+            },
+            {
+                "wiki_drone_strikes_2_news_8-E7": []
+            }
+        ]
+    }
+}
